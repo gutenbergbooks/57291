@@ -1,31 +1,7 @@
-Project Gutenberg's Keys to Fungi on Dung, by Mike Richardson and Roy Watling
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Keys to Fungi on Dung
-
-Author: Mike Richardson
-        Roy Watling
-
-Release Date: June 9, 2018 [EBook #57291]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK KEYS TO FUNGI ON DUNG ***
+*** START OF THE PROJECT GUTENBERG EBOOK 57291 ***
 
 
 
-
-Produced by Keith Edkins, Mary Glenn Krause, Eric Lehtonen
-and the Online Distributed Proofreading Team at
-http://www.pgdp.net
 
 
 
@@ -62,7 +38,7 @@ EDINBURGH EH3 5LR
   PO Box 30, Stourbridge
   West Midlands DY9 9PZ
 
-  © British Mycological Society 1997
+  Â© British Mycological Society 1997
 
   Printed in Scotland by BPC-AUP Aberdeen Ltd
 
@@ -197,11 +173,11 @@ might be found, with notes on common species. The asexual spores are
 sporangiospores formed in sporangia; some sporangia produce a single spore
 within a closely fitting sporangium, and have in the past been erroneously
 described as conidia. A great range of sporangial structure occurs within
-the orders concerned. The classical structure is the massive (up to 250µm
+the orders concerned. The classical structure is the massive (up to 250Âµm
 diam.) multispored sporangium with an internal columella which remains
 after the spores have been dispersed (e.g. _Mucor_); those of _Mortierella_
 are similar, but smaller and without a columella. Other sporangia are much
-reduced and may be only 10-20µm diam., and contain only a small number of
+reduced and may be only 10-20Âµm diam., and contain only a small number of
 spores (_Thamnidium_) or one spore (_Chaetocladium_); these small globose
 structures are termed sporangioles. Spores may also form in chains; the
 chains are in terminal groups and are formed by the differentiation of the
@@ -261,7 +237,7 @@ and _The British Fungus Flora_ (Orton & Watling, 1979 and Watling, 1982).
   Arx, J. A. von (1987). A re-evaluation of the Eurotiales. _Persoonia_ 13,
   273-300. (Keys to families and genera).
 
-  Arx, J. A. von, Dreyfuss, M. & Müller, E. (1984). A re-evaluation of
+  Arx, J. A. von, Dreyfuss, M. & MÃ¼ller, E. (1984). A re-evaluation of
   _Chaetomium_ and the Chaetomiaceae. _Persoonia_ 12, 169-179. (Key to
   species).
 
@@ -269,15 +245,15 @@ and _The British Fungus Flora_ (Orton & Watling, 1979 and Watling, 1982).
   Ascomycetes without Ascospore Ejaculation. _Beihefte zur Nova Hedwigia_
   94, 1-104.
 
-  Arx, J. A. von, & Gams, W. (1967). Über _Pleurage verruculosa_ und die
-  zugehörige _Cladorrhinum_-Konidienform. _Nova Hedwigia_ 13, 198-208.
+  Arx, J. A. von, & Gams, W. (1967). Ãœber _Pleurage verruculosa_ und die
+  zugehÃ¶rige _Cladorrhinum_-Konidienform. _Nova Hedwigia_ 13, 198-208.
 
   Arx, J. A. von, Guarro, J. & van der Aa, H. A. (1987). _Asordaria_, a new
   genus of the Sordariaceae, and a new species of _Melanocarpus_.
   _Persoonia_ 13, 263-272.
 
   Barrasa, J. M. & Checa, J. (1990). Dothideales del Parque Natural de
-  Monfragüe Cáceres. I. _Boletín Sociedad Micológica de Madrid_ 15, 91-102.
+  MonfragÃ¼e CÃ¡ceres. I. _BoletÃ­n Sociedad MicolÃ³gica de Madrid_ 15, 91-102.
 
   Barrasa, J. M., Lundqvist, N. & Moreno, G. (1986). Notes on the genus
   _Sordaria_ in Spain. _Persoonia_ 13, 83-88.
@@ -293,7 +269,7 @@ and _The British Fungus Flora_ (Orton & Watling, 1979 and Watling, 1982).
   Booth, C. (1961). Studies of pyrenomycetes: VI. _Thielavia_ with notes on
   some allied genera. _Mycological Paper_ 83.
 
-  Breton, A. & Faurel, L. (1968). Etudes des affinités du genre
+  Breton, A. & Faurel, L. (1968). Etudes des affinitÃ©s du genre
   _Mycorhynchus_ Sacc. et description de plusieurs especes nouvelles.
   _Revue de Mycologie_ 32, 229-258.
 
@@ -321,8 +297,8 @@ and _The British Fungus Flora_ (Orton & Watling, 1979 and Watling, 1982).
 
   Cailleux, R. (1971). Recherches sur la mycoflore coprophile
   centrafricaine. Les genres _Sordaria_, _Gelasinospora_, _Bombardia_
-  (Biologie, Morphologie, Systématique). _Bulletin trimestriel de la
-  Société Mycologique de France_ 87, 461-626 + 27 plates.
+  (Biologie, Morphologie, SystÃ©matique). _Bulletin trimestriel de la
+  SociÃ©tÃ© Mycologique de France_ 87, 461-626 + 27 plates.
 
   Cain, R. F. (1934). Studies of Coprophilous Sphaeriales in Ontario.
   _University of Toronto Studies, Biological Series_, No. 38. (Reprinted
@@ -446,7 +422,7 @@ and _The British Fungus Flora_ (Orton & Watling, 1979 and Watling, 1982).
   and descriptions/illustrations of most).
 
   Lundqvist, N. (1967). On spore ornamentation in the Sordariaceae,
-  exemplified by the new cleistocarpous genus _Copromyces_. _Arkiv för
+  exemplified by the new cleistocarpous genus _Copromyces_. _Arkiv fÃ¶r
   Botanik,_ Series 2. 6(7), 327-337.
 
   Lundqvist, N. (1969). _Zygopleurage_ and _Zygospermella_ (Sordariaceae s.
@@ -499,7 +475,7 @@ and _The British Fungus Flora_ (Orton & Watling, 1979 and Watling, 1982).
   Moravec, J. (1993). A taxonomic revision of the genus _Cheilymenia_--5.
   The section _Cheilymenia_. _Czech Mycology_ 47, 7-37.
 
-  Moreau, C. (1953) Les Genres _Sordaria_ et _Pleurage_. _Encyclopédie
+  Moreau, C. (1953) Les Genres _Sordaria_ et _Pleurage_. _EncyclopÃ©die
   mycologique_ 25, 1-330. (_Sordaria_ and _Pleurage_
   (=_Podospora_/_Schizothecium_), and _Coniochaeta_, _Hypocopra_,
   _Sporormiella_, _Trichodelitschia_, and other pyrenomycetes for
@@ -538,28 +514,28 @@ and _The British Fungus Flora_ (Orton & Watling, 1979 and Watling, 1982).
   Seth, H. K. (1970). The genus _Lophotrichus_ Benjamin. _Nova Hedwigia_
   19, 591-599.
 
-  Valldosera, M. & Guarro, J. (1987). Estudios sobre hongos copróphilos
-  aislados en España. VI. Ascomycetes. _Boletín Sociedad Micológica de
+  Valldosera, M. & Guarro, J. (1987). Estudios sobre hongos coprÃ³philos
+  aislados en EspaÃ±a. VI. Ascomycetes. _BoletÃ­n Sociedad MicolÃ³gica de
   Madrid_ 12, 51-56.
 
   Valldosera, M. & Guarro, J. (1988). Some coprophilous ascomycetes from
   Chile. _Transactions of the British Mycological Society_ 90, 601-605.
 
-  Valldosera, M. & Guarro, J. (1989). Estudios sobre hongos copróphilos
-  aislados en España. XI. Ascomycetes. _Boletín Sociedad Micológica de
+  Valldosera, M. & Guarro, J. (1989). Estudios sobre hongos coprÃ³philos
+  aislados en EspaÃ±a. XI. Ascomycetes. _BoletÃ­n Sociedad MicolÃ³gica de
   Madrid_ 14, 75-80.
 
-  Valldosera, M. & Guarro, J. (1989). Estudios sobre hongos copróphilos
-  aislados en España. XV. El género _Preussia_ (_Sporormiella_). _Boletín
-  Sociedad Micológica de Madrid_ 14, 81-94.
+  Valldosera, M. & Guarro, J. (1989). Estudios sobre hongos coprÃ³philos
+  aislados en EspaÃ±a. XV. El gÃ©nero _Preussia_ (_Sporormiella_). _BoletÃ­n
+  Sociedad MicolÃ³gica de Madrid_ 14, 81-94.
 
-  Valldosera, M. & Guarro, J. (1992). Estudios sobre hongos copróphilos en
-  España. XVII. Ascomycotina. _Boletín Sociedad Micológica de Madrid_ 17,
+  Valldosera, M. & Guarro, J. (1992). Estudios sobre hongos coprÃ³philos en
+  EspaÃ±a. XVII. Ascomycotina. _BoletÃ­n Sociedad MicolÃ³gica de Madrid_ 17,
   19-37.
 
-  Valldosera, M. & Guarro, J. (1992). Estudios sobre hongos copróphilos
-  aislados en España. XVIII. Bibliographic catalogue of Ascomycotina.
-  _Boletín Sociedad Micológica de Madrid_ 17, 39-55.
+  Valldosera, M. & Guarro, J. (1992). Estudios sobre hongos coprÃ³philos
+  aislados en EspaÃ±a. XVIII. Bibliographic catalogue of Ascomycotina.
+  _BoletÃ­n Sociedad MicolÃ³gica de Madrid_ 17, 39-55.
 
   Valldosera, M., Guarro, J. & Figueras, M. J. (1991). Two interesting
   coprophilous fungi from Spain. _Mycological Research_ 95, 243-246.
@@ -608,7 +584,7 @@ and _The British Fungus Flora_ (Orton & Watling, 1979 and Watling, 1982).
   Cramer, Lehre).
 
   Gams, W. & Moreau, R. (1959). Le genre _Mortierella_. _Annales
-  scientifiques de l'Université de Besançon_, Series 2 3, 95-105.
+  scientifiques de l'UniversitÃ© de BesanÃ§on_, Series 2 3, 95-105.
 
   Hesseltine, C. W. (1955). Genera of Mucorales with a note on their
   synonymy. _Mycologia_ 47, 344-363. (With good key; many other papers by
@@ -619,7 +595,7 @@ and _The British Fungus Flora_ (Orton & Watling, 1979 and Watling, 1982).
   in relation to spore liberation. _Transactions of the British Mycological
   Society_ 46, 115-134.
 
-  Naumov, N. A. (1939). Clés des Mucorinées. _Encyclopédie mycologique_ 9,
+  Naumov, N. A. (1939). ClÃ©s des MucorinÃ©es. _EncyclopÃ©die mycologique_ 9,
   1-137.
 
   Zycha, H., Siepmann, R. & Linneman, G. (1969). _Mucorales._ J. Cramer,
@@ -710,30 +686,30 @@ Key 1. Ascomycota
 
   6(5)     Apothecia with obvious hairs.                                  7
   -        Apothecia without obvious hairs (microscopic hairs up to
-           50µm long may be present).                                    14
+           50Âµm long may be present).                                    14
 
   7(6)     Hairs brown. Apothecia orange, red orange or yellow
            orange.                                (_Cheilymenia_, fig. 1) 8
   -        Hairs colourless. Apothecia colourless or pinkish.
                                                   (_Lasiobolus_, fig. 3) 12
 
-  8(7)     Apothecia with stellate hairs. Spores 14-20 × 8-11µm.
+  8(7)     Apothecia with stellate hairs. Spores 14-20 Ã— 8-11Âµm.
                                         _Cheilymenia stercorea_ (figs 1, 2)
   -        Apothecia without stellate hairs.                              9
 
-  9(8)     Spores 14.5-18 × 8-9.5µm. Asci 10-13µm diam. Apothecia
+  9(8)     Spores 14.5-18 Ã— 8-9.5Âµm. Asci 10-13Âµm diam. Apothecia
            2mm diam. or more.                      _Cheilymenia coprinaria_
-  -        Spores larger, 17 × 10µm or more.                             10
+  -        Spores larger, 17 Ã— 10Âµm or more.                             10
 
   10(9)    Apothecia reddish orange, up to 1mm diam., marginal
-           hairs rooting, wall 2-4µm thick. Spores 21-26 ×
-           10-13.8µm.                                _Cheilymenia fimicola_
+           hairs rooting, wall 2-4Âµm thick. Spores 21-26 Ã—
+           10-13.8Âµm.                                _Cheilymenia fimicola_
   -        Apothecia pale orange yellow, marginal hairs
-           superficial, wall up to 2µm thick.                            11
+           superficial, wall up to 2Âµm thick.                            11
 
-  11(10)   Asci up to 22µm diam. Spores 17-27 × 10-14.5µm.
+  11(10)   Asci up to 22Âµm diam. Spores 17-27 Ã— 10-14.5Âµm.
                                                   _Cheilymenia pulcherrima_
-  -        Asci wider, 25µm diam. or more. Spores 23-26.5 × 13-16.5µm.
+  -        Asci wider, 25Âµm diam. or more. Spores 23-26.5 Ã— 13-16.5Âµm.
                                                      _Cheilymenia raripila_
 
 [Illustration: FIG. 1. _Cheilymenia stercorea_, apothecium.]
@@ -744,19 +720,19 @@ Key 1. Ascomycota
 
 [Illustration: FIG. 4. _Iodophanus carneus_, apothecium and spore.]
 
-  12(7)    Hairs 600µm or longer. Spores 19-23 × 7-10µm.
+  12(7)    Hairs 600Âµm or longer. Spores 19-23 Ã— 7-10Âµm.
                                                   _Lasiobolus macrotrichus_
-  -        Hairs shorter, up to 600µm.                                   13
+  -        Hairs shorter, up to 600Âµm.                                   13
 
-  13(12)   Asci clavate, 20µm diam. or wider. Spores 19-22 ×
-           10.5-13.5µm.                               _Lasiobolus cuniculi_
-  -        Asci cylindrical, up to 20µm diam. Spores 18-22.5 ×
-           9.5-11.5µm.                       _Lasiobolus ciliatus_ (fig. 3)
+  13(12)   Asci clavate, 20Âµm diam. or wider. Spores 19-22 Ã—
+           10.5-13.5Âµm.                               _Lasiobolus cuniculi_
+  -        Asci cylindrical, up to 20Âµm diam. Spores 18-22.5 Ã—
+           9.5-11.5Âµm.                       _Lasiobolus ciliatus_ (fig. 3)
 
   14(6)    Asci blue in iodine solution.                                 15
   -        Asci not blue in iodine.                                      24
 
-  15(14)   Spores large, 30-42 × 15-18µm, warted, ellipsoid with
+  15(14)   Spores large, 30-42 Ã— 15-18Âµm, warted, ellipsoid with
            acute apices.                              _Thecotheus cinereus_
   -        Spores smaller, smooth or only finely ornamented              16
 
@@ -765,36 +741,36 @@ Key 1. Ascomycota
            hymenium when ripe.                                           17
 
   17(16)   Apothecia white to pink, up to 2mm diam. Spores finely
-           verruculose, 18-25 × 8-14µm.       _Iodophanus carneus_ (fig. 4)
+           verruculose, 18-25 Ã— 8-14Âµm.       _Iodophanus carneus_ (fig. 4)
   -        Apothecia pale, variously coloured when fresh, but drying
            darker. Spores smooth.                         (_Thecotheus_) 18
 
   18(17)   Spores apiculate at each end, smooth.                         19
-  -        Spores not apiculate, 20-22 × 8-10µm.   _Thecotheus agranulosus_
+  -        Spores not apiculate, 20-22 Ã— 8-10Âµm.   _Thecotheus agranulosus_
 
   19(18)   Spores with a collar at the base of the apiculus.             20
   -        Spores without a collar at the base of the apiculus,
-           16-21 × 8-12µm.                          _Thecotheus apiculatus_
+           16-21 Ã— 8-12Âµm.                          _Thecotheus apiculatus_
 
-  20(19)   Apothecia white. Spores 20-22 × 10-12µm, apiculus
-           4-6µm diam.                              _Thecotheus perplexans_
-  -        Apothecia yellowish. Spores 12-15 × 7.5-9µm, apiculus
-           2.5-3.5µm diam.                           _Thecotheus africanus_
+  20(19)   Apothecia white. Spores 20-22 Ã— 10-12Âµm, apiculus
+           4-6Âµm diam.                              _Thecotheus perplexans_
+  -        Apothecia yellowish. Spores 12-15 Ã— 7.5-9Âµm, apiculus
+           2.5-3.5Âµm diam.                           _Thecotheus africanus_
 
   21(16)   Spores smooth, without guttules.                              22
-  -        Spores verruculose or spinulose, 15-18 × 8-9µm, with 1
+  -        Spores verruculose or spinulose, 15-18 Ã— 8-9Âµm, with 1
            guttule. Paraphyses with clavate apices, with brown
            contents. Apothecia asymmetrical, extended on one side.
                                                           _Peziza pleurota_
 
-  22(21)   Spores 19-24 × 10.5-14µm. Apothecia yellowish brown,
+  22(21)   Spores 19-24 Ã— 10.5-14Âµm. Apothecia yellowish brown,
            up to 10cm diam.                             _Peziza vesiculosa_
-  -        Spores up to 10µm wide.                                       23
+  -        Spores up to 10Âµm wide.                                       23
 
   23(22)   Apothecia ca 1cm diam., umber with a paler margin.
-           Spores 15-22 × 9-10µm.                           _Peziza bovina_
+           Spores 15-22 Ã— 9-10Âµm.                           _Peziza bovina_
   -        Apothecia up to 2cm diam., pale brown. Spores 13-16
-           × 7-9µm.                                         _Peziza fimeti_
+           Ã— 7-9Âµm.                                         _Peziza fimeti_
 
   24(14)   Apothecia robust, up to 4mm diam., orange or with brownish
            or purple tints.                                              25
@@ -805,76 +781,76 @@ Key 1. Ascomycota
   -        Apothecia discrete, brownish or purple.           (_Fimaria_) 27
 
   26(25)   Apothecia crowded, 1-3mm diam., orange, with a granular
-           surface. Asci up to 190 × 15µm. Spores 15-18.5 ×
-           7-9.5µm. Paraphyses strongly clavate to apex up to 14µm
+           surface. Asci up to 190 Ã— 15Âµm. Spores 15-18.5 Ã—
+           7-9.5Âµm. Paraphyses strongly clavate to apex up to 14Âµm
            diam, filled with orange granules.          _Coprobia granulata_
   -        Apothecia discrete, 1-2mm diam., orange or red. Asci
-           240 × 10-12µm. Spores 12-15 × 7-8µm. Paraphyses yellow,
-           only slightly swollen from 2µm to 3-4µm at apex.
+           240 Ã— 10-12Âµm. Spores 12-15 Ã— 7-8Âµm. Paraphyses yellow,
+           only slightly swollen from 2Âµm to 3-4Âµm at apex.
                                                     _Ascophanus bresadolae_
 
-  27(25)   Spores 8-9.5 × 4-4.5µm.                         _Fimaria equina_
+  27(25)   Spores 8-9.5 Ã— 4-4.5Âµm.                         _Fimaria equina_
   -        Spores larger.                                                28
 
-  28(27)   Spores 20-38 × 10-13µm.                       _Fimaria hepatica_
+  28(27)   Spores 20-38 Ã— 10-13Âµm.                       _Fimaria hepatica_
   -        Spores shorter.                                               29
 
-  29(28)   Spores 10-13 × 7-9µm.                          _Fimaria porcina_
-  -        Spores 13-17 × 7-11µm.                                        30
+  29(28)   Spores 10-13 Ã— 7-9Âµm.                          _Fimaria porcina_
+  -        Spores 13-17 Ã— 7-11Âµm.                                        30
 
   30(29)   Disc punctate with asci. Paraphysis tips swollen up to
-           3-5µm. Spores 14.5-16 × 9.5-11µm.              _Fimaria leporum_
+           3-5Âµm. Spores 14.5-16 Ã— 9.5-11Âµm.              _Fimaria leporum_
   -        Disc not punctate with asci. Paraphysis tips not or
            only slightly swollen.                                        31
 
-  31(30)   Apothecia pale yellowish. Spores 13-15.5 × 7.5-8.5µm.
+  31(30)   Apothecia pale yellowish. Spores 13-15.5 Ã— 7.5-8.5Âµm.
                                                        _Fimaria theioleuca_
-  -        Apothecia chestnut/purplish brown. Spores 14-17 ×
-           7-8.5µm.                                      _Fimaria cervaria_
+  -        Apothecia chestnut/purplish brown. Spores 14-17 Ã—
+           7-8.5Âµm.                                      _Fimaria cervaria_
 
-  32(24)   Spores less than 10µm long.                                   33
-  -        Spores mostly longer than 10µm.                               36
+  32(24)   Spores less than 10Âµm long.                                   33
+  -        Spores mostly longer than 10Âµm.                               36
 
-  33(32)   Paraphyses markedly capitate to 5-6µm, with yellowish
+  33(32)   Paraphyses markedly capitate to 5-6Âµm, with yellowish
            green contents. Apothecia dull at first, yellowish at
-           maturity. Spores 7-10 × 2-4.5µm.
+           maturity. Spores 7-10 Ã— 2-4.5Âµm.
                                           _Thelebolus microsporus_ (fig. 5)
   -        Paraphyses only slightly inflated above, without
            coloured contents. Apothecia whitish or grey.                 34
 
-  34(33)   Spores 5-7 × 3-4µm. Asci 38-42 × 6-7µm. Apothecia smoky
+  34(33)   Spores 5-7 Ã— 3-4Âµm. Asci 38-42 Ã— 6-7Âµm. Apothecia smoky
            grey, 0.3-0.4mm diam.                    _Ascophanus cinerellus_
   -        Spores larger. Apothecia pale, white or yellowish.            35
 
-  35(34)   Apothecia up to 1.2mm diam. Asci short stalked, 40-55 ×
-           8-12µm. Spores 7.5-9 × 4.5-5.5µm.          _Coprotus glaucellus_
-  -        Apothecia 0.2-0.5mm diam. Asci attenuate below, 65-85 ×
-           10-15µm. Spores 8-10 × 5-6.5µm.               _Coprotus lacteus_
+  35(34)   Apothecia up to 1.2mm diam. Asci short stalked, 40-55 Ã—
+           8-12Âµm. Spores 7.5-9 Ã— 4.5-5.5Âµm.          _Coprotus glaucellus_
+  -        Apothecia 0.2-0.5mm diam. Asci attenuate below, 65-85 Ã—
+           10-15Âµm. Spores 8-10 Ã— 5-6.5Âµm.               _Coprotus lacteus_
 
-  36(32)   Apothecia chestnut brown up to 1mm diam. Asci 160 ×
-           13µm. Spores 13-16 x 8-11µm. Paraphyses forked, with
+  36(32)   Apothecia chestnut brown up to 1mm diam. Asci 160 Ã—
+           13Âµm. Spores 13-16 x 8-11Âµm. Paraphyses forked, with
            swollen tips.                              _Ascophanus misturae_
-  -        Apothecia lighter coloured. Asci less than 150µm long.        37
+  -        Apothecia lighter coloured. Asci less than 150Âµm long.        37
 
-  37(36)   Spores 14-18 × 9-11µm. Apothecia pale yellow/orange, up
-           to 1.5mm diam. Asci cylindrical, 110-150 × 12-15µm.
-           Paraphyses yellowish, slightly inflated to 4-5µm at
+  37(36)   Spores 14-18 Ã— 9-11Âµm. Apothecia pale yellow/orange, up
+           to 1.5mm diam. Asci cylindrical, 110-150 Ã— 12-15Âµm.
+           Paraphyses yellowish, slightly inflated to 4-5Âµm at
            apices.                                    _Coprotus ochraceus_
-  -        Spores less than 15µm long. Apothecia up to 0.6mm diam.
-           Asci less than 100µm long.                                    38
+  -        Spores less than 15Âµm long. Apothecia up to 0.6mm diam.
+           Asci less than 100Âµm long.                                    38
 
 [Illustration: FIG. 5. _Thelebolus microsporus_, ascus and paraphysis.]
 
 [Illustration: FIG. 6. _Ascodesmis microscopica_, ascospores.]
 
   38(37)   Apothecia bright yellow. Asci cylindrical clavate,
-           attenuate below, 65-90 × 10-15µm. Spores 12-14 ×
-           6-8.5µm. Paraphyses branched, apices inflated to
-           4-5µm, with yellow contents.                  _Coprotus aurorus_
+           attenuate below, 65-90 Ã— 10-15Âµm. Spores 12-14 Ã—
+           6-8.5Âµm. Paraphyses branched, apices inflated to
+           4-5Âµm, with yellow contents.                  _Coprotus aurorus_
   -        Apothecia white/pale yellow, with darker margin. Asci
-           broadly clavate, stalked below 40-55 × 15-30µm.
-           Spores 9-15 × 6.5-9.5µm. Paraphyses inflated above to
-           5-8µm, hyaline.                         _Coprotus granuliformis_
+           broadly clavate, stalked below 40-55 Ã— 15-30Âµm.
+           Spores 9-15 Ã— 6.5-9.5Âµm. Paraphyses inflated above to
+           5-8Âµm, hyaline.                         _Coprotus granuliformis_
 
   39(5)    Spores spherical or broadly ellipsoid, brown, ornamented
            with warts, anastomosing ridges or a reticulum. Asci
@@ -885,28 +861,28 @@ Key 1. Ascomycota
            finely verruculose, warted or cracked. Asci cylindrical.
            Excipulum present.                                            45
 
-  40(39)   Spores 18-21.5 × 13.5-17.5µm.            _Ascodesmis macrospora_
-  -        Spores up to 16µm.                                            41
+  40(39)   Spores 18-21.5 Ã— 13.5-17.5Âµm.            _Ascodesmis macrospora_
+  -        Spores up to 16Âµm.                                            41
 
-  41(40)   Spores ± spherical, L/B ratio mostly up to 1.2.               42
-  -        Spores ± broadly ellipsoidal, L/B ratio mostly 1.2 or more.   43
+  41(40)   Spores Â± spherical, L/B ratio mostly up to 1.2.               42
+  -        Spores Â± broadly ellipsoidal, L/B ratio mostly 1.2 or more.   43
 
-  42(41)   Spores ornamented with round warts, 8.5-11 × 8.3-10µm.
+  42(41)   Spores ornamented with round warts, 8.5-11 Ã— 8.3-10Âµm.
                                                           _Ascodesmis nana_
-  -        Spores ornamented with a network of ridges, 10.5-14 ×
-           9-12µm.                                _Ascodesmis sphaerospora_
+  -        Spores ornamented with a network of ridges, 10.5-14 Ã—
+           9-12Âµm.                                _Ascodesmis sphaerospora_
 
   43(41)   Spores with a prominent reticulum of ridges (fig. 6),
-           11-15.5 × 8-13.5µm. Apothecia 150-300µm diam.
+           11-15.5 Ã— 8-13.5Âµm. Apothecia 150-300Âµm diam.
                                          _Ascodesmis microscopica_ (fig. 6)
   -        Spore ornament not a reticulum.                               44
 
   44(43)   Spores with 1 simple or branched ridge and isolated or
-           occasionally connected warts, 11-14.5 × 7-11.5µm.
-           Apothecia up to 500µm diam.                 _Ascodesmis porcina_
+           occasionally connected warts, 11-14.5 Ã— 7-11.5Âµm.
+           Apothecia up to 500Âµm diam.                 _Ascodesmis porcina_
   -        Spores with isolated warts, some joined to form short
            ridges, but not a reticulum, often capitate, 9.5-12.5
-           × 7.5-10µm. Apothecia 50-150µm diam.      _Ascodesmis nigricans_
+           Ã— 7.5-10Âµm. Apothecia 50-150Âµm diam.      _Ascodesmis nigricans_
 
   45(39)   Spores separate in the ascus.                   (_Ascobolus_) 46
   -        Spores firmly joined together, both in the ascus and
@@ -915,20 +891,20 @@ Key 1. Ascomycota
   46(45)   Spores spherical.                                             47
   -        Spores ellipsoid.                                             48
 
-  47(46)   Spores 10.5-13.5µm, epispore with numerous but isolated
+  47(46)   Spores 10.5-13.5Âµm, epispore with numerous but isolated
            warts.                         _Ascobolus brassicae_ (figs 8, 9)
-  -        Spores 11.5-13.5(15)µm, epispore with subparallel
+  -        Spores 11.5-13.5(15)Âµm, epispore with subparallel
            occasionally anastomosing lines.         _Ascobolus crosslandii_
 
-  48(46)   Spores very large, mostly 50-70 × 25-35µm, almost oblong
+  48(46)   Spores very large, mostly 50-70 Ã— 25-35Âµm, almost oblong
            with rounded ends, typically with few cracks in the
            epispore.                       _Ascobolus immersus_ (figs 7, 9)
   -        Spores smaller, with epispore smooth, warted or with cracks.
                                                                          49
 
   49(48)   Epispore strongly and irregularly wrinkled with a
-           vesiculose layer of pigment, 11.6-16 × 6.5-9.3µm.
-           Paraphyses capitate up to 18µm. Apothecia up to 0.6mm
+           vesiculose layer of pigment, 11.6-16 Ã— 6.5-9.3Âµm.
+           Paraphyses capitate up to 18Âµm. Apothecia up to 0.6mm
            diam.                                 _Ascobolus rhytidiosporus_
   -        Epispore not strongly wrinkled/vesiculose.                    50
 
@@ -945,94 +921,94 @@ operculum.]
 [Illustration: FIG. 9. Ascospores of, clockwise from left, _A. immersus_,
 _A. stictoideus_, _A. albidus_, _A. brassicae_ and _A. crenulatus_.]
 
-  51(50)   Spores up to 25µm long.                                       52
-  -        Spores longer, 25µm or more.                                  54
+  51(50)   Spores up to 25Âµm long.                                       52
+  -        Spores longer, 25Âµm or more.                                  54
 
   52(51)   Epispore smooth, finely granular or punctate. Gelatinous
            material unilateral, not surrounding spore.                   53
-  -        Epispore warted, spores 18.5-21(22.5) × (9)10-11.5µm,
+  -        Epispore warted, spores 18.5-21(22.5) Ã— (9)10-11.5Âµm,
            surrounded by gelatinous sheath.         _Ascobolus hawaiiensis_
 
-  53(52)   Spores 18-24 × 10-13µm. Hymenial mucus greenish yellow.
+  53(52)   Spores 18-24 Ã— 10-13Âµm. Hymenial mucus greenish yellow.
            Excipulum not brown.                          _Ascobolus mancus_
-  -        Spores 20-25 × 11-13µm. Hymenial mucus sulphur yellow.
+  -        Spores 20-25 Ã— 11-13Âµm. Hymenial mucus sulphur yellow.
            Excipulum with rich brown intercellular pigment.
                                                        _Ascobolus boudieri_
 
   54(51)   Epispore smooth or finely granular, spores 23-29(32)
-           × 12-17µm.                                   _Ascobolus elegans_
+           Ã— 12-17Âµm.                                   _Ascobolus elegans_
   -        Epispore warted.                                              55
 
   55(54)   Spores with a regular pattern of warts and intact
-           epispore, 26-32 × 15-17.5µm.
+           epispore, 26-32 Ã— 15-17.5Âµm.
                                            _Ascobolus stictoideus_ (fig. 9)
   -        Spores with irregular patches of thicker pigment,
-           especially at the poles, 28-35 × 16-18µm.
+           especially at the poles, 28-35 Ã— 16-18Âµm.
                                                       _Ascobolus degluptus_
 
-  56(50)   Spores mostly 18 × 10µm or larger.                            57
-  -        Spores mostly smaller than 20 × 10µm.                         61
+  56(50)   Spores mostly 18 Ã— 10Âµm or larger.                            57
+  -        Spores mostly smaller than 20 Ã— 10Âµm.                         61
 
   57(56)   Apothecia small, mostly up to 1mm diam., colourless.
-           Spores 20-35 × 11-14µm, epispore cracks distant,
+           Spores 20-35 Ã— 11-14Âµm, epispore cracks distant,
            irregular, often anastomosing.
                                             _Ascobolus albidus_ (figs 7, 9)
   -        Apothecia larger, usually 1mm diam. or more, disc
            yellowish, greenish, purplish or brownish.                    58
 
   58(57)   Apothecia crowded, purplish or purplish brown with
-           intercellular pigment. Spores 18-28 × 10-12µm, with
+           intercellular pigment. Spores 18-28 Ã— 10-12Âµm, with
            longitudinal anastomosing cracks.
                                               _Ascobolus roseopurpurascens_
 
   -        Apothecia yellowish or greenish.                              59
 
-  59(58)   Spores 17-22 × 9.5-12µm with a few widely spaced and
+  59(58)   Spores 17-22 Ã— 9.5-12Âµm with a few widely spaced and
            irregularly oriented cracks.               _Ascobolus michaudii_
-  -        Spores with closely spaced, ± longitudinal, cracks, with
+  -        Spores with closely spaced, Â± longitudinal, cracks, with
            varying degrees of anastomosis.                               60
 
   60(59)   Apothecia furfuraceous, sessile. Ascus wall blue in
-           iodine. Spores 19-28 × 10-14µm.
+           iodine. Spores 19-28 Ã— 10-14Âµm.
                                            _Ascobolus furfuraceus_ (fig. 7)
   -        Apothecia smooth, substipitate. Ascus wall only faintly
-           blue in iodine. Spores 19-22 × 9.5-13µm.
+           blue in iodine. Spores 19-22 Ã— 9.5-13Âµm.
                                                      _Ascobolus perplexans_
 
   61(56)   Apothecia large, stipitate, 5-10mm diam. Spores 16-19.5
-           × 8.5-10µm, with subparallel, longitudinal, only rarely
+           Ã— 8.5-10Âµm, with subparallel, longitudinal, only rarely
            anastomosing lines.                       _Ascobolus lignatilis_
   -        Apothecia up to 2mm diam.                                     62
 
   62(61)   Apothecia white.                                              63
   -        Apothecia yellow, green or brownish.                          64
 
-  63(62)   Spores 13-17 × 7.5-8.5µm, with a coarse reticulum of fine
+  63(62)   Spores 13-17 Ã— 7.5-8.5Âµm, with a coarse reticulum of fine
            cracks when mature. Only recorded on grouse, capercaillie
            etc. (Tetraonidae) dung.                  _Ascobolus carletonii_
-  -        Spores 16-20 × 8-10µm, with a pattern of longitudinal
+  -        Spores 16-20 Ã— 8-10Âµm, with a pattern of longitudinal
            anastomosing cracks. Only recorded on deer dung.
                                                   _Ascobolus sacchariferus_
 
-  64(62)   Spores 14.5-16 × 8-9µm, epispore lines not densely
+  64(62)   Spores 14.5-16 Ã— 8-9Âµm, epispore lines not densely
            crowded.                                    _Ascobolus cervinus_
   -        Spores smaller, epispore with densely crowded, rarely
            anastomosing cracks.                                          65
 
   65(64)   Apothecia greenish yellow, furfuraceous, with crenulate
-           margin. Spores 9.5-15 × 6-8µm.
+           margin. Spores 9.5-15 Ã— 6-8Âµm.
                                             _Ascobolus crenulatus_ (fig. 9)
   -        Apothecia brownish yellow to brown, smooth, with
-           undifferentiated margin. Spores 12.5-14.5 × 7-8.5µm.
+           undifferentiated margin. Spores 12.5-14.5 Ã— 7-8.5Âµm.
                                                         _Ascobolus minutus_
 
-  66(45)   Asci 4-spored. Spore clusters 42-58 × 14-20µm. Spores
-           16.5-23 × 9.5-12µm, smooth to finely punctate, but with
+  66(45)   Asci 4-spored. Spore clusters 42-58 Ã— 14-20Âµm. Spores
+           16.5-23 Ã— 9.5-12Âµm, smooth to finely punctate, but with
            a thick cap or girdle of reticulated or warted pigment.
                                                   _Saccobolus quadrisporus_
   -        Asci 8-spored.                                                67
 
-  67(66)   Spore clusters ± globular, 17-26(39) × 15-20µm.               68
+  67(66)   Spore clusters Â± globular, 17-26(39) Ã— 15-20Âµm.               68
   -        Spore clusters elongated, 2-3 times as long as wide.          69
 
   68(67)   Spore clusters compact, subglobose, with only the
@@ -1047,47 +1023,47 @@ _A. stictoideus_, _A. albidus_, _A. brassicae_ and _A. crenulatus_.]
   -        Apothecia hyaline or violaceous (some mature darker).
            Spores in 2 rows of 3 and 1 row of 2 (fig. 10).               73
 
-  70(69)   Spore clusters 40µm or longer.                                71
-  -        Spore clusters up to 40µm long.                               72
+  70(69)   Spore clusters 40Âµm or longer.                                71
+  -        Spore clusters up to 40Âµm long.                               72
 
-  71(70)   Spore clusters 50-71 × 16-25µm. Spores 22-29 ×
-           8.5-14.5µm, smooth or rarely finely punctate, with
+  71(70)   Spore clusters 50-71 Ã— 16-25Âµm. Spores 22-29 Ã—
+           8.5-14.5Âµm, smooth or rarely finely punctate, with
            distant irregular cracks.          _Saccobolus glaber_ (fig. 10)
-  -        Spore clusters 43-51 × 14-17µm. Spores 16-22 × 7.5-9µm,
+  -        Spore clusters 43-51 Ã— 14-17Âµm. Spores 16-22 Ã— 7.5-9Âµm,
            with fine isolated warts.                  _Saccobolus citrinus_
 
-  72(70)   Spores 14-17.5(19.5) × 7.5-8.5(10)µm, easily separated
+  72(70)   Spores 14-17.5(19.5) Ã— 7.5-8.5(10)Âµm, easily separated
            at maturity. Spore clusters becoming shorter and more
-           rounded with maturity. Apothecia up to 300µm diam.,
+           rounded with maturity. Apothecia up to 300Âµm diam.,
            inconspicuous due to their solitary nature and the
            predominantly brownish colour due to the mature spores.
                                            _Saccobolus truncatus_ (fig. 10)
-  -        Spores 11.5-13.5 × 5.5-6.5µm.               _Saccobolus minimus_
+  -        Spores 11.5-13.5 Ã— 5.5-6.5Âµm.               _Saccobolus minimus_
 
   73(69)   Apothecia white, covered with tapering squamules
-           composed of septate hyphae. Spore clusters 38-43 ×
-           15-17µm. Spores 16-17.5 × 7-8.5µm, smooth or finely
+           composed of septate hyphae. Spore clusters 38-43 Ã—
+           15-17Âµm. Spores 16-17.5 Ã— 7-8.5Âµm, smooth or finely
            punctate.                               _Saccobolus caesariatus_
   -        Apothecia not white, without tapering scales.                 74
 
-  74(73)   Spore clusters mostly over 40µm long.                         75
-  -        Spore clusters mostly under 40µm long.                        76
+  74(73)   Spore clusters mostly over 40Âµm long.                         75
+  -        Spore clusters mostly under 40Âµm long.                        76
 
-  75(74)   Spore clusters 38-62 × 14-19µm. Spores 13-21.5 ×
-           6.5-9.5µm, smooth, finely warted or with reticulate
+  75(74)   Spore clusters 38-62 Ã— 14-19Âµm. Spores 13-21.5 Ã—
+           6.5-9.5Âµm, smooth, finely warted or with reticulate
            cracks. Apothecia 0.2-2mm diam.
                                           _Saccobolus versicolor_ (fig. 10)
-  -        Spore clusters 42-60 × 18-24µm. Spores very coarsely
-           warted, 17.5-23 × 8.5-10µm (inc. warts).     _Saccobolus beckii_
+  -        Spore clusters 42-60 Ã— 18-24Âµm. Spores very coarsely
+           warted, 17.5-23 Ã— 8.5-10Âµm (inc. warts).     _Saccobolus beckii_
 
 [Illustration: FIG. 10. Spore clusters of, from left, _Saccobolus
 versicolor_, _S. glaber_ and _S. truncatus_.]
 
-  76(74)   Spore clusters compact, 26-43 × 13-19µm. Spores 13.5-18
-           × 7.5-9.5µm, epispore with fine or coarse warts.
+  76(74)   Spore clusters compact, 26-43 Ã— 13-19Âµm. Spores 13.5-18
+           Ã— 7.5-9.5Âµm, epispore with fine or coarse warts.
            Apothecia 0.3-0.8mm diam.                  _Saccobolus obscurus_
-  -        Spore clusters elongated, 28-37 × 10-13µm. Spores
-           10-14.5 × 5-7.5µm, epispore smooth or very finely
+  -        Spore clusters elongated, 28-37 Ã— 10-13Âµm. Spores
+           10-14.5 Ã— 5-7.5Âµm, epispore smooth or very finely
            granular. Apothecia 0.1-0.3mm diam.
                                                   _Saccobolus depauperatus_
 
@@ -1099,94 +1075,94 @@ versicolor_, _S. glaber_ and _S. truncatus_.]
            subapical ring of thickening. Spores ellipsoid-fusiform.
                                               (_Ascozonus_, figs 14, 15) 90
 
-  78(77)   Asci 16-spored. Spores ellipsoid, 11-16 × 7-10µm.
+  78(77)   Asci 16-spored. Spores ellipsoid, 11-16 Ã— 7-10Âµm.
                                                   _Coprotus sexdecemsporus_
   -        Asci more than 16-spored.                                     79
 
   79(78)   Asci 32-spored.                                               80
   -        Asci more than 32-spored.                                     84
 
-  80(79)   Asci very large, nearly 0.5mm long, spores 30-35 ×
-           13-17µm (32-40 × 20-24µm in Kimbrough, 1969). Apothecia
+  80(79)   Asci very large, nearly 0.5mm long, spores 30-35 Ã—
+           13-17Âµm (32-40 Ã— 20-24Âµm in Kimbrough, 1969). Apothecia
            pale coloured.                           _Thecotheus pelletieri_
   -        Asci and spores smaller.                                      81
 
-  81(80)   Spores 10µm or longer.                                        83
-  -        Spores up to 10µm long.                                       82
+  81(80)   Spores 10Âµm or longer.                                        83
+  -        Spores up to 10Âµm long.                                       82
 
   82(81)   Spores ellipsoid, with minute scattered warts visible
-           under oil-immersion, 7-9 × 4-4.5µm. Apothecia densely
-           crowded, 90-120µm diam., with 8-13 asci. Asci 32-55
-           × 16-18µm with (24-)32 spores. Paraphyses 1.5-2µm,
-           clavate to 4-4.5µm.                         _Thelebolus caninus_
-  -        Spores subacute at apices, ca 6 × 4µm (described as
+           under oil-immersion, 7-9 Ã— 4-4.5Âµm. Apothecia densely
+           crowded, 90-120Âµm diam., with 8-13 asci. Asci 32-55
+           Ã— 16-18Âµm with (24-)32 spores. Paraphyses 1.5-2Âµm,
+           clavate to 4-4.5Âµm.                         _Thelebolus caninus_
+  -        Spores subacute at apices, ca 6 Ã— 4Âµm (described as
            'minute'; this value is suggested by Boudier's comparison
            with _R. dubius_, for which measurements are given).
            Apothecia densely crowded, tawny yellowish-brown.
                                                       _Ryparobius brunneus_
 
-  83(81)   Spores 10-12.5 × 5-7.5µm. Asci clavate, 75-100 ×
-           20-30µm. Paraphyses enlarged to 6µm at apex.
+  83(81)   Spores 10-12.5 Ã— 5-7.5Âµm. Asci clavate, 75-100 Ã—
+           20-30Âµm. Paraphyses enlarged to 6Âµm at apex.
                                                          _Coprotus albidus_
-  -        Spores 13.5-17.5 × 7-8µm. Asci 10-15 per apothecium,
-           120-175 × 50-75µm. Paraphyses filiform.
+  -        Spores 13.5-17.5 Ã— 7-8Âµm. Asci 10-15 per apothecium,
+           120-175 Ã— 50-75Âµm. Paraphyses filiform.
                                                   _Coprotus rhyparobioides_
 
   84(79)   Asci with up to 64 spores.                                    85
   -        Asci with many more than 64 spores--impractical to count.     86
 
   85(84)   Asci 64-spored, broad clavate with short stalk, 80-130
-           × 30-60µm. Spores 8-12 × 4-7µm.                _Coprotus niveus_
-  -        Asci broadly clavate with up to 64 spores, 60-100 ×
-           20-30µm. Spores 7-10 × 4.5-5.5µm. Apothecia superficial,
+           Ã— 30-60Âµm. Spores 8-12 Ã— 4-7Âµm.                _Coprotus niveus_
+  -        Asci broadly clavate with up to 64 spores, 60-100 Ã—
+           20-30Âµm. Spores 7-10 Ã— 4.5-5.5Âµm. Apothecia superficial,
            on the surface of the substrate, yellowish brown,
            gregarious, united into a crust.         _Thelebolus crustaceus_
 
-  86(84)   Apothecia superficial, 400-600µm diam., with prominent,
-           acuminate, superficial, 1-2-septate hairs, 80-190µm
+  86(84)   Apothecia superficial, 400-600Âµm diam., with prominent,
+           acuminate, superficial, 1-2-septate hairs, 80-190Âµm
            long, often roughened towards their apex, with one
-           1000+-spored ascus, 110-240 × 15-27µm. Spores very
-           variable, 6.5-16 × 3.7-8.8µm (mostly 7.5-13 × 4.5-7µm).
+           1000+-spored ascus, 110-240 Ã— 15-27Âµm. Spores very
+           variable, 6.5-16 Ã— 3.7-8.8Âµm (mostly 7.5-13 Ã— 4.5-7Âµm).
                                                       _Lasiobolus monascus_
-  -        Apothecia minute, rarely above 350µm diam., globose and
+  -        Apothecia minute, rarely above 350Âµm diam., globose and
            immersed in substrate when young. Asci broad globose,
            with 100-200 spores. Usually only 1-3 asci in each
            apothecium, which dehisce by bursting at the apex.            87
            (Other _Ryparobius_ spp. will key out here [e.g. _R. dubius_,
            _R. myriosporus_, _R. pachyascus_ and _R.
            polysporus_]. They all have scattered to gregarious,
-           immersed to semi-immersed apothecia 100-200µm diam.,
+           immersed to semi-immersed apothecia 100-200Âµm diam.,
            with relatively few asci, each with 100-250 ellipsoid
-           to subacuminate ca 5-7 × 3-4µm spores. There are
+           to subacuminate ca 5-7 Ã— 3-4Âµm spores. There are
            insufficient modern observations to allow their
            identification and separation with confidence).
 
-  87(86)   Apothecia with a few, but obvious, setae. Spores 9 × 7µm
+  87(86)   Apothecia with a few, but obvious, setae. Spores 9 Ã— 7Âµm
            or larger.                                                    88
-  -        Apothecia without setae. Spores ellipsoid, 6-9 × 3.5-4µm.     89
+  -        Apothecia without setae. Spores ellipsoid, 6-9 Ã— 3.5-4Âµm.     89
 
-  88(87)   Spores ellipsoid, 9-11 × 7-9µm. Setae up to 600µm long.
+  88(87)   Spores ellipsoid, 9-11 Ã— 7-9Âµm. Setae up to 600Âµm long.
                                                       _Trichobolus zukalii_
-  -        Spores subglobose, 11-12 × 10-11µm. Setae up to 300µm long.
+  -        Spores subglobose, 11-12 Ã— 10-11Âµm. Setae up to 300Âµm long.
                                       _Trichobolus sphaerosporus_ (fig. 11)
 
-  89(87)   Apothecia and asci large, 170-250µm diam.
+  89(87)   Apothecia and asci large, 170-250Âµm diam.
                                           _Thelebolus stercoreus_ (fig. 12)
-  -        Apothecia and asci small, rarely above 80-90µm diam.
+  -        Apothecia and asci small, rarely above 80-90Âµm diam.
                                                _Thelebolus nanus_ (fig. 13)
 
   90(77)   Asci 16(-24)-spored. Spores not closely aggregated into
-           an imbricated mass, 13-14 × 6µm (8-9 × 4µm)[1].
+           an imbricated mass, 13-14 Ã— 6Âµm (8-9 Ã— 4Âµm)[1].
            Apothecial hairs rough, subulate.        _Ascozonus parvisporus_
   -        Asci with 32 or more spores.                                  91
 
 
-  91(90)   Asci 32-spored. Spores 16.5-18 × 4.5-5µm (11-12 ×
-           3-3.5µm)[1]. Apothecia with a single row of sharp,
+  91(90)   Asci 32-spored. Spores 16.5-18 Ã— 4.5-5Âµm (11-12 Ã—
+           3-3.5Âµm)[1]. Apothecia with a single row of sharp,
            pointed, roughened hairs.                   _Ascozonus crouanii_
   -        Asci more than 32-spored.                                     92
 
-  92(91)   Asci 48-spored. Spores spindle-shaped, 12-14.5 × 2.5-4µm.
+  92(91)   Asci 48-spored. Spores spindle-shaped, 12-14.5 Ã— 2.5-4Âµm.
                                                       _Ascozonus leveillei_
   -        Asci more than 48-spored.                                     93
 
@@ -1194,11 +1170,11 @@ versicolor_, _S. glaber_ and _S. truncatus_.]
   -        Asci more than 64-spored.                                     95
 
   94(93)   Apothecia with a short base of globose cells, with
-           minutely roughened marginal hairs up to 30 × 8µm. Spores
-           elliptic-fusoid, 12-14 × 3-5µm.
+           minutely roughened marginal hairs up to 30 Ã— 8Âµm. Spores
+           elliptic-fusoid, 12-14 Ã— 3-5Âµm.
                                      _Ascozonus woolhopensis_ (figs 14, 15)
   -        Apothecia sessile, with aseptate smooth hairs. Spores
-           21 × 7.5µm (13-14 × 4.5-5µm)[1].         _Ascozonus cunicularis_
+           21 Ã— 7.5Âµm (13-14 Ã— 4.5-5Âµm)[1].         _Ascozonus cunicularis_
 
 [Illustration: FIG. 11. _Trichobolus sphaerosporus_, apothecium.]
 
@@ -1215,45 +1191,45 @@ dehiscence.]
 
   95(93)   Apothecia with a short base of globose cells, with
            short, irregular hairs. Asci 64-96-spored Spores
-           elliptic-fusoid, 14-14.5 × 5-5.5µm (10-15 × 3.5-4µm)[1].
+           elliptic-fusoid, 14-14.5 Ã— 5-5.5Âµm (10-15 Ã— 3.5-4Âµm)[1].
                                                     _Ascozonus leveillanus_
   -        Apothecia sessile, dotted with hairs in connate groups
-           of 2-3. Asci with 128 or more spores. Spores 10 × 5µm
-           (7 × 3.5µm)[1].                            _Ascozonus subhirtus_
+           of 2-3. Asci with 128 or more spores. Spores 10 Ã— 5Âµm
+           (7 Ã— 3.5Âµm)[1].                            _Ascozonus subhirtus_
 
   96(3)    Apothecia stalked.                                            97
   -        Apothecia not stalked.                                        98
 
   97(96)   Apothecia up to 2mm diam., with a short cylindrical stalk,
-           light brown. Asci 150 × 10µm. Spores hyaline, with 2 oil
-           drops, occasionally 1-septate, 13-15 × 4.5µm.
+           light brown. Asci 150 Ã— 10Âµm. Spores hyaline, with 2 oil
+           drops, occasionally 1-septate, 13-15 Ã— 4.5Âµm.
                                                           _Lanzia cuniculi_
   -        Apothecia up to 3mm diam., pale olivaceous to grey, with
            a long, slender, reddish-brown stalk arising from a
-           sclerotium in the dung. Asci 30-40 × 4-5µm. Spores
-           ellipsoid, grey-brown, 4-4.5 × 2µm.     _Martininia panamaensis_
+           sclerotium in the dung. Asci 30-40 Ã— 4-5Âµm. Spores
+           ellipsoid, grey-brown, 4-4.5 Ã— 2Âµm.     _Martininia panamaensis_
 
-  98(96)   Spores 7-11(14) × 1.75-2.75µm. ellipsoid, ellipsoid-
+  98(96)   Spores 7-11(14) Ã— 1.75-2.75Âµm. ellipsoid, ellipsoid-
            fusiform or slightly clavate. Apothecia yellowish brown
-           when fresh, drying darker, up to 1mm diam. Asci 42-60 ×
-           7.5-9µm, pore weakly blue in iodine.          _Pezizella albula_
+           when fresh, drying darker, up to 1mm diam. Asci 42-60 Ã—
+           7.5-9Âµm, pore weakly blue in iodine.          _Pezizella albula_
   -        Spores and asci smaller.                                      99
 
-  99(98)   Spores linear, 3-5 × 1µm. Asci 30 × 5µm, cylindrical
+  99(98)   Spores linear, 3-5 Ã— 1Âµm. Asci 30 Ã— 5Âµm, cylindrical
            with a short stipe. Paraphyses not clavate but fused
            to form an epithecium. Apothecia pale pellucid,
            0.5-1mm diam.                                 _Orbilia leporina_
   -        Spores longer, subulate, curved.                             100
 
-  100(99)  Spores 7-8.5 × 1.2-1.8µm. Asci 36-40 × 3-5µm, gradually
-           tapering to a short base. Paraphyses enlarged to 3µm at
+  100(99)  Spores 7-8.5 Ã— 1.2-1.8Âµm. Asci 36-40 Ã— 3-5Âµm, gradually
+           tapering to a short base. Paraphyses enlarged to 3Âµm at
            apex, covered with brown granules. Apothecia light brown,
            0.4-1.mm diam.                                _Orbilia fimicola_
-  -        Spores 8-10.55 × 0.9-1µm. Asci 30-45 × 3µm,
+  -        Spores 8-10.55 Ã— 0.9-1Âµm. Asci 30-45 Ã— 3Âµm,
            cylindrical-clavate with narrow tapering base and
-           truncate apex. Paraphyses 2µm diam., the tips with a
+           truncate apex. Paraphyses 2Âµm diam., the tips with a
            crust-like secretion fusing together to form a shiny
-           epithecium. Apothecia white to yellowish, 180-700µm diam.
+           epithecium. Apothecia white to yellowish, 180-700Âµm diam.
                                                      _Orbilia fimicoloides_
 
 
@@ -1303,24 +1279,24 @@ Key 2. Perithecial, pseudothecial, cleistothecial and gymnothecial fungi
            usually present.                             (_Sporormiella_) 11
 
   8(7)     Spores 16-20-celled.                                           9
-  -        Spores 29-32-celled, 130-160 × 4-6µm.      _Sporormia mirabilis_
+  -        Spores 29-32-celled, 130-160 Ã— 4-6Âµm.      _Sporormia mirabilis_
 
-  9(8)     Spores 16-celled, 85-116 × 5-6.5µm.         _Sporormia fimicola_
+  9(8)     Spores 16-celled, 85-116 Ã— 5-6.5Âµm.         _Sporormia fimicola_
   -        Spores smaller.                                               10
 
-  10(9)    Spores 16-celled, 37-45 × 3µm. Asci 50-60 × 10-12µm.
+  10(9)    Spores 16-celled, 37-45 Ã— 3Âµm. Asci 50-60 Ã— 10-12Âµm.
                                                   _Sporormia sp._ (fig. 17)
            [recorded as _S. fimetaria_ by Richardson (1972);
            see also Bell (1983) and Dissing (1992)]
-  -        Spores 16-20-celled, 50-57 × 3.5-4.5µm. Asci 70-80 ×
-           12-16µm.                                   _Sporormia fimetaria_
+  -        Spores 16-20-celled, 50-57 Ã— 3.5-4.5Âµm. Asci 70-80 Ã—
+           12-16Âµm.                                   _Sporormia fimetaria_
            (These two taxa may represent the extremes of _S. fimetaria_).
 
   11(7)    Spores 4-celled.                                              12
   -        Spores more than 4-celled.                                    22
 
-  12(11)   Spores more than 65-70µm long.                                13
-  -        Spores less than 65-70µm long.                                15
+  12(11)   Spores more than 65-70Âµm long.                                13
+  -        Spores less than 65-70Âµm long.                                15
 
 [Illustration: FIG. 16. _Chaetomium_ sp., perithecium and spore.]
 
@@ -1337,32 +1313,32 @@ mature ascus with outer layer ruptured.]
 intermedia_ (with gelatinous sheath characteristic of the genus), _S.
 lageniformis_, _S. vexans_, _S. bipartis_ and _S. minima_.]
 
-  13(12)   Spores 65-95 × 15-18µm.               _Sporormiella megalospora_
-  -        Spores longer than 90µm.                                      14
+  13(12)   Spores 65-95 Ã— 15-18Âµm.               _Sporormiella megalospora_
+  -        Spores longer than 90Âµm.                                      14
 
-  14(13)   Spores 90-118 × 15-20µm. Asci tapering gradually from
+  14(13)   Spores 90-118 Ã— 15-20Âµm. Asci tapering gradually from
            the broadest part near the apex to a 'stipe'.
                                          _Sporormiella ovina_ (figs 18, 21)
-  -        Spores 91-114 × (14)18-21µm. Asci cylindrical, abruptly
+  -        Spores 91-114 Ã— (14)18-21Âµm. Asci cylindrical, abruptly
            contracted below to a short 'stipe'.
                                                     _Sporormiella borealis_
 
-  15(12)   Spores mostly less than 35µm long.                            16
-  -        Spores mostly between 35-60µm long.                           19
+  15(12)   Spores mostly less than 35Âµm long.                            16
+  -        Spores mostly between 35-60Âµm long.                           19
 
-  16(15)   Spores less than 25µm long.                                   17
-  -        Spores 25-35(38)µm long.                                      18
+  16(15)   Spores less than 25Âµm long.                                   17
+  -        Spores 25-35(38)Âµm long.                                      18
 
-  17(16)   Spores (15)17-24(26) × 5-7µm, end cells broadly conical.
-           Ascospores uniseriate. Asci 120-135µm long. Pseudothecia
-           250-300µm diam.                         _Sporormiella pulchella_
-  -        Spores 16-22 × 4.5-5.5µm, end cells subovate. Ascospores
-           biseriate. Asci 95-125µm long. Pseudothecia 300-350µm
+  17(16)   Spores (15)17-24(26) Ã— 5-7Âµm, end cells broadly conical.
+           Ascospores uniseriate. Asci 120-135Âµm long. Pseudothecia
+           250-300Âµm diam.                         _Sporormiella pulchella_
+  -        Spores 16-22 Ã— 4.5-5.5Âµm, end cells subovate. Ascospores
+           biseriate. Asci 95-125Âµm long. Pseudothecia 300-350Âµm
            diam.                               _Sporormiella nigropurpurea_
 
-  18(16)   Spores 30-38.5 × 5.5-6.5µm. Asci clavate, tapering
+  18(16)   Spores 30-38.5 Ã— 5.5-6.5Âµm. Asci clavate, tapering
            gradually below to a 'stipe'.            _Sporormiella leporina_
-  -        Spores 27-36(38) × 4-6(8)µm, tending to break in two at
+  -        Spores 27-36(38) Ã— 4-6(8)Âµm, tending to break in two at
            the middle septum. Asci cylindrical, abruptly contracted
            below.                           _Sporormiella minima_ (fig. 21)
 
@@ -1371,43 +1347,43 @@ lageniformis_, _S. vexans_, _S. bipartis_ and _S. minima_.]
   -        Spores with end cells tapered and slightly conical.
            Asci clavate, tapering gradually to a long stalk.             21
 
-  20(19)   Spores 45-65 × 8-11.5µm.
+  20(19)   Spores 45-65 Ã— 8-11.5Âµm.
                                      _Sporormiella intermedia_ (figs 19-21)
-  -        Spores 38-46 × 6.5-8µm.                 _Sporormiella australis_
+  -        Spores 38-46 Ã— 6.5-8Âµm.                 _Sporormiella australis_
 
-  21(19)   Spores 45-60 × 11.5-14µm, germ slits parallel with
+  21(19)   Spores 45-60 Ã— 11.5-14Âµm, germ slits parallel with
            long axis.                            _Sporormiella grandispora_
-  -        Spores 35-45(48) × 7-9(10)µm.
+  -        Spores 35-45(48) Ã— 7-9(10)Âµm.
                                       _Sporormiella lageniformis_ (fig. 21)
 
-  22(11)   Spores 5-celled, 70-80 × 17-19µm.       _Sporormiella pentamera_
+  22(11)   Spores 5-celled, 70-80 Ã— 17-19Âµm.       _Sporormiella pentamera_
   -        Spores more than 5-celled.                                    23
 
   23(22)   Spores 7- or 8-celled.                                        24
-  -        Spores 13-celled, 46-60 × 9-10µm.      _Sporormiella antarctica_
+  -        Spores 13-celled, 46-60 Ã— 9-10Âµm.      _Sporormiella antarctica_
 
   24(23)   Spores 7-celled.                                              25
   -        Spores 8-celled.                                              26
 
-  25(24)   Spores 40-55 × 7-9µm, readily disarticulating, the end
+  25(24)   Spores 40-55 Ã— 7-9Âµm, readily disarticulating, the end
            cells longer than wide, the rest shorter than wide.
                                             _Sporormiella vexans_ (fig. 21)
-  -        Spores 70-80 × 16-18µm, end cells rounded.
+  -        Spores 70-80 Ã— 16-18Âµm, end cells rounded.
                                                    _Sporormiella heptamera_
 
-  26(24)   Spores mostly longer than 45µm.                               27
-  -        Spores less than 50µm long, not disarticulating at the
+  26(24)   Spores mostly longer than 45Âµm.                               27
+  -        Spores less than 50Âµm long, not disarticulating at the
            central septum.                                               28
 
-  27(26)   Spores 45-60 × 5-7.5µm, disarticulating at the central
+  27(26)   Spores 45-60 Ã— 5-7.5Âµm, disarticulating at the central
            septum, all cells the same width.
                                           _Sporormiella bipartis_ (fig. 21)
-  -        Spores 50-59 × 10-12µm, not disarticulating, 3rd cell
+  -        Spores 50-59 Ã— 10-12Âµm, not disarticulating, 3rd cell
            down wider than the others.           _Sporormiella corynespora_
 
-  28(26)   Spores (33)37-40(49) × 7-9µm, cylindrical. Asci
+  28(26)   Spores (33)37-40(49) Ã— 7-9Âµm, cylindrical. Asci
            abruptly contracted below.                 _Sporormiella pascua_
-  -        Spores 40-48 × 7-8µm, fusiform cylindrical. Asci gradually
+  -        Spores 40-48 Ã— 7-8Âµm, fusiform cylindrical. Asci gradually
            tapered below.                           _Sporormiella octomera_
 
   29(6)    Spores obviously 2-celled at maturity.                       30
@@ -1417,11 +1393,11 @@ lageniformis_, _S. vexans_, _S. bipartis_ and _S. minima_.]
            matures to become pigmented; the other remains hyaline,
            often collapses, and may be difficult to see).               47
 
-  30(29)   Spores 23-28 × 13-17µm, upper cell dark, 15-19µm, with
+  30(29)   Spores 23-28 Ã— 13-17Âµm, upper cell dark, 15-19Âµm, with
            close, blunt spines giving the impression of a pitted
            spore surface, with apical germ pore, the lower cell
-           hyaline, 6-8.5µm, smoky-brown. Asci unitunicate,
-           4-spored. Perithecia 400µm diam.
+           hyaline, 6-8.5Âµm, smoky-brown. Asci unitunicate,
+           4-spored. Perithecia 400Âµm diam.
                                        _Apiosordaria verruculosa_ (fig. 24)
   -        Both cells of spore similar in shape, size and colour.        31
 
@@ -1430,9 +1406,9 @@ lageniformis_, _S. vexans_, _S. bipartis_ and _S. minima_.]
   -        Asci bitunicate. Spores without gelatinous appendages,
            although a sheath may be present.                             33
 
-  32(31)   Spores 38-48 × 11-14µm, appendages longitudinally
+  32(31)   Spores 38-48 Ã— 11-14Âµm, appendages longitudinally
            fibrillate.                              _Zygospermella striata_
-  -        Spores 46-68 × 11-17µm, appendages hollow, not
+  -        Spores 46-68 Ã— 11-17Âµm, appendages hollow, not
            fibrillate.                   _Zygospermella insignis_ (fig. 25)
 
   33(31)   Spores with each end truncated by a germ pore.
@@ -1442,54 +1418,54 @@ lageniformis_, _S. vexans_, _S. bipartis_ and _S. minima_.]
            Pseudothecial neck smooth or hairy, but without setae.
                                                  (_Delitschia_, fig. 26) 36
 
-  34(33)   Spores 28-34 × 9-12µm.             _Trichodelitschia aedelphica_
+  34(33)   Spores 28-34 Ã— 9-12Âµm.             _Trichodelitschia aedelphica_
   -        Spores smaller.                                               35
 
-  35(34)   Spores 20-27.5 × 8-11µm.
+  35(34)   Spores 20-27.5 Ã— 8-11Âµm.
                                  _Trichodelitschia bisporula_ (figs 22, 23)
-  -        Spores 18-21 × 6-7µm.                  _Trichodelitschia munkii_
+  -        Spores 18-21 Ã— 6-7Âµm.                  _Trichodelitschia munkii_
 
-  36(33)   Asci ca 256-spored. Spores 14-15 × 6-8µm.
+  36(33)   Asci ca 256-spored. Spores 14-15 Ã— 6-8Âµm.
                                                     _Delitschia myriaspora_
   -        Asci 8-spored.                                                37
 
-  37(36)   Spores less than 20µm long.                                   38
-  -        Spores more than 20µm long.                                   41
+  37(36)   Spores less than 20Âµm long.                                   38
+  -        Spores more than 20Âµm long.                                   41
 
-  38(37)   Spores 8-11 × 3-5µm.                     _Delitschia perpusilla_
-  -        Spores 10-20µm long.                                          39
+  38(37)   Spores 8-11 Ã— 3-5Âµm.                     _Delitschia perpusilla_
+  -        Spores 10-20Âµm long.                                          39
 
-  39(38)   Spores 10-14 × 5-6µm.                     _Delitschia marchalii_
+  39(38)   Spores 10-14 Ã— 5-6Âµm.                     _Delitschia marchalii_
   -        Spores longer.                                                40
 
-  40(39)   Spores 14-18 × 6-10µm, uniseriate. Asci 70-90 × 7-16µm.
+  40(39)   Spores 14-18 Ã— 6-10Âµm, uniseriate. Asci 70-90 Ã— 7-16Âµm.
                                                       _Delitschia niesslii_
-  -        Spores (16)18-20(22.5) × 6-7.5µm, biseriate. Asci
-           80-145 × 20-25µm.              _Delitschia consociata_ (fig. 26)
+  -        Spores (16)18-20(22.5) Ã— 6-7.5Âµm, biseriate. Asci
+           80-145 Ã— 20-25Âµm.              _Delitschia consociata_ (fig. 26)
 
-  41(37)   Spores mostly wider than 20µm.                                42
-  -        Spores mostly less than 20µm wide.                            43
+  41(37)   Spores mostly wider than 20Âµm.                                42
+  -        Spores mostly less than 20Âµm wide.                            43
 
-  42(41)   Spores 50-64 × 19-23µm.                  _Delitschia furfuracea_
-  -        Spores 50-70 × 25-33µm.           _Delitschia winteri_ (fig. 26)
+  42(41)   Spores 50-64 Ã— 19-23Âµm.                  _Delitschia furfuracea_
+  -        Spores 50-70 Ã— 25-33Âµm.           _Delitschia winteri_ (fig. 26)
 
-  43(41)   Spores 20-25 × 4.5-6µm, the cells slightly tapered and
+  43(41)   Spores 20-25 Ã— 4.5-6Âµm, the cells slightly tapered and
            almost completely separated. Pseudothecia hairless,
-           globose, ca 200µm diam.        _Delitschia leptospora_ (fig. 26)
+           globose, ca 200Âµm diam.        _Delitschia leptospora_ (fig. 26)
   -        Spores longer and wider.                                      44
 
   44(43)   Spores transversely septate.                                  45
   -        Spores obliquely septate, deeply constricted at the
-           septum, 35-50 × 15-18µm.                     _Delitschia didyma_
+           septum, 35-50 Ã— 15-18Âµm.                     _Delitschia didyma_
 
-  45(44)   Pseudothecia hairy. Spores 37-50 × 17-20µm, not deeply
+  45(44)   Pseudothecia hairy. Spores 37-50 Ã— 17-20Âµm, not deeply
            constricted at the septum.            _Delitschia chaetomioides_
   -        Pseudothecia smooth.                                          46
 
-  46(45)   Spores biseriate, 45-55 × 13-16µm, one cell usually
+  46(45)   Spores biseriate, 45-55 Ã— 13-16Âµm, one cell usually
            larger than the other, deeply constricted at the
            septum and readily separating.               _Delitschia canina_
-  -        Spores uniseriate, 40-55 × 16-21µm, both cells equal.
+  -        Spores uniseriate, 40-55 Ã— 16-21Âµm, both cells equal.
                                                     _Delitschia patagonica_
 
 [Illustration: FIG. 22. _Trichodelitschia bisporula_, pseudothecium.]
@@ -1516,83 +1492,83 @@ consociata_ and _D. leptospora_.]
   48(47)   Perithecia often hairy or tomentose when young. Immature
            spores long, wavy cylindrical, with a row of globules,
            and more likely to be seen than mature spores (fig. 29).
-           Secondary appendages thin, simple, up to 60 × 3µm.
-           Mature spores with a dark cell 14-25 × 7-13µm and
-           pedicel (primary appendage) 25-50 × 3-6µm.
+           Secondary appendages thin, simple, up to 60 Ã— 3Âµm.
+           Mature spores with a dark cell 14-25 Ã— 7-13Âµm and
+           pedicel (primary appendage) 25-50 Ã— 3-6Âµm.
                                                           (_Cercophora_) 49
   -        Perithecia often with scales or setae at the neck or
            tomentose. Caudae, simple or compound. Immature spores
            clavate or ellipsoid, not long, wavy cylindrical.
            Mature spores readily observed.                               51
 
-  49(48)   Immature spores 45-70 × 4-6µm.                                50
-  -        Immature spores smaller, 38-52 × 3-3.5µm. Mature spores
-           with upper (dark) cell 14-18 × 7-9µm; hyaline pedicel
-           27-36 × 3-3.5µm.                          _Cercophora silvatica_
+  49(48)   Immature spores 45-70 Ã— 4-6Âµm.                                50
+  -        Immature spores smaller, 38-52 Ã— 3-3.5Âµm. Mature spores
+           with upper (dark) cell 14-18 Ã— 7-9Âµm; hyaline pedicel
+           27-36 Ã— 3-3.5Âµm.                          _Cercophora silvatica_
 
   50(49)   Perithecia with white or grey tomentum. Young spores
-           45-65 × 4.5-6µm. Mature spores with upper cell 17-25 ×
-           8.5-13µm and pedicel 30-50µm long.
+           45-65 Ã— 4.5-6Âµm. Mature spores with upper cell 17-25 Ã—
+           8.5-13Âµm and pedicel 30-50Âµm long.
                                           _Cercophora coprophila_ (fig. 29)
   -        Perithecia with flexuose brown hairs and, at the neck,
            tufts of agglutinated, swollen, obtuse hairs. Young
-           spores 52-68 × 4-5µm. Mature spores with upper cell
-           15-25 × 9-11µm and pedicel 35-45µm long.
+           spores 52-68 Ã— 4-5Âµm. Mature spores with upper cell
+           15-25 Ã— 9-11Âµm and pedicel 35-45Âµm long.
                                                      _Cercophora mirabilis_
 
   51(48)   Primary appendage absent.                 (_Arnium_, fig. 28) 52
   -        Primary appendage present.                                    60
 
-  52(51)   Asci (64-)128-spored. Spores 18-26 × (10)12-15µm.
+  52(51)   Asci (64-)128-spored. Spores 18-26 Ã— (10)12-15Âµm.
            Perithecial neck sometimes with rigid, brown, septate
-           hairs up to 330µm.                            _Arnium leporinum_
+           hairs up to 330Âµm.                            _Arnium leporinum_
   -        Asci 4- or 8-spored.                                          53
 
   53(52)   Asci 4-spored.                                                54
   -        Asci 8-spored.                                                55
 
   54(53)   Spores ellipsoid, sometimes inequilaterally flattened,
-           44-54 × 22-30µm, with 1 apical germ pore, caudae not
+           44-54 Ã— 22-30Âµm, with 1 apical germ pore, caudae not
            swelling in water. Perithecium usually with lateral
-           tufts of agglutinated hairs up to 550µm long.
+           tufts of agglutinated hairs up to 550Âµm long.
                                                         _Arnium arizonense_
-  -        Spores evenly ellipsoid-fusiform, 31-55 × 18-25µm, with
+  -        Spores evenly ellipsoid-fusiform, 31-55 Ã— 18-25Âµm, with
            germ pore at each end, caudae covering germ pores, 35-60
-           × 7-11µm, but rupturing and swelling to up to 130 ×
-           50µm, and becoming diffuse and irregular. Perithecial
-           neck covered with rigid hairs up to 190 × 2.5µm.
+           Ã— 7-11Âµm, but rupturing and swelling to up to 130 Ã—
+           50Âµm, and becoming diffuse and irregular. Perithecial
+           neck covered with rigid hairs up to 190 Ã— 2.5Âµm.
                                                             _Arnium hirtum_
 
   55(53)   Perithecial neck distinctly setose with rigid hairs.          56
   -        Perithecial neck without setae.                               57
 
-  56(55)   Spores evenly ellipsoid-fusiform, 31-55 × 18-25µm, with
+  56(55)   Spores evenly ellipsoid-fusiform, 31-55 Ã— 18-25Âµm, with
            germ pore at each end, caudae covering germ pores, 35-60
-           × 7-11µm, but rupturing and swelling up to 130 × 50µm,
+           Ã— 7-11Âµm, but rupturing and swelling up to 130 Ã— 50Âµm,
            and becoming diffuse and irregular. Perithecial neck
-           covered with rigid hairs up to 190 × 2.5µm.
+           covered with rigid hairs up to 190 Ã— 2.5Âµm.
                                                             _Arnium hirtum_
-  -        Spores slightly inequilateral, 35-43 × 17-23µm, caudae
-           50-75 × 5-8µm, not covering germ pores. Perithecial
-           neck with brown hairs up to 250µm long.
+  -        Spores slightly inequilateral, 35-43 Ã— 17-23Âµm, caudae
+           50-75 Ã— 5-8Âµm, not covering germ pores. Perithecial
+           neck with brown hairs up to 250Âµm long.
                                                           _Arnium cervinum_
 
   57(55)   Perithecia covered with a dense tomentum of septate
-           flexuous hairs. Spores mostly longer than 45µm. Only
+           flexuous hairs. Spores mostly longer than 45Âµm. Only
            occasionally fimicolous.                                      58
-  -        Perithecia without a tomentum. Spores up to 45µm.             59
+  -        Perithecia without a tomentum. Spores up to 45Âµm.             59
 
-  58(57)   Spores (40)45-54 × 25-35µm, uniseriate. Tomentum pale
+  58(57)   Spores (40)45-54 Ã— 25-35Âµm, uniseriate. Tomentum pale
            or grayish.                                      _Arnium olerum_
-  -        Spores 47-70 x 20-30µm, biseriate above. Tomentum
+  -        Spores 47-70 x 20-30Âµm, biseriate above. Tomentum
            olivaceous brown.                            _Arnium tomentosum_
 
   59(57)   Spores somewhat inequilateral, rounded below, pointed
-           above, 31-40 × 18-24µm, caudae 50-120 × 6-10µm, with 1
+           above, 31-40 Ã— 18-24Âµm, caudae 50-120 Ã— 6-10Âµm, with 1
            apical germ pore not covered by cauda.
                                                         _Arnium caballinum_
-  -        Spores equilateral, 36-44 × 20-23µm, caudae 50-80 ×
-           6-8µm, covering germ pores.                      _Arnium mendax_
+  -        Spores equilateral, 36-44 Ã— 20-23Âµm, caudae 50-80 Ã—
+           6-8Âµm, covering germ pores.                      _Arnium mendax_
 
   60(51)   Perithecia with scales at the neck, composed of inflated
            and agglutinated cells (fig. 27, _S. conicum_).
@@ -1604,49 +1580,49 @@ consociata_ and _D. leptospora_.]
   61(60)   Asci 4-spored.                                                62
   -        Asci 8-spored.                                                63
 
-  62(61)   Spores 11-14.5 × 6.5-9µm.        _Schizothecium nanum_ (fig. 28)
-  -        Spores 19-24 × 12-14.5µm.            _Schizothecium tetrasporum_
+  62(61)   Spores 11-14.5 Ã— 6.5-9Âµm.        _Schizothecium nanum_ (fig. 28)
+  -        Spores 19-24 Ã— 12-14.5Âµm.            _Schizothecium tetrasporum_
 
-  63(61)   Spores more than 30µm long.                                   64
-  -        Spores less than 30µm long.                                   65
+  63(61)   Spores more than 30Âµm long.                                   64
+  -        Spores less than 30Âµm long.                                   65
 
   64(63)   Perithecia crowned with a fascicle of long agglutinated
-           hairs at the neck, up to 335µm long. Spores 31-40 ×
-           15-25µm, biseriate.                      _Schizothecium aloides_
+           hairs at the neck, up to 335Âµm long. Spores 31-40 Ã—
+           15-25Âµm, biseriate.                      _Schizothecium aloides_
   -        Perithecia with shorter, less remarkable tufts. Spores
-           30-45 × 19-24µm, ± uniseriate.         _Schizothecium glutinans_
+           30-45 Ã— 19-24Âµm, Â± uniseriate.         _Schizothecium glutinans_
 
   65(63)   Perithecial neck with rigid setae, as well as
            agglutinated hairs (which may be greatly reduced).
-           Asci 140-210 × 19-25µm, broadest at the markedly
-           rounded apex. Spores 18-23 × 11-14µm.
+           Asci 140-210 Ã— 19-25Âµm, broadest at the markedly
+           rounded apex. Spores 18-23 Ã— 11-14Âµm.
                                                     _Schizothecium pilosum_
   -        Perithecial neck without rigid setae. Asci broadest
            in the middle.                                                66
 
-  66(65)   Spores mostly over 23µm long.                                 67
-  -        Spores up to 23µm long.                                       69
+  66(65)   Spores mostly over 23Âµm long.                                 67
+  -        Spores up to 23Âµm long.                                       69
 
-  67(66)   Spores 22-25(27) × 11-13µm. Scales at neck distinct.
+  67(66)   Spores 22-25(27) Ã— 11-13Âµm. Scales at neck distinct.
                                                  _Schizothecium hispidulum_
-  -        Spores wider, 12-19µm                                         68
+  -        Spores wider, 12-19Âµm                                         68
 
   68(67)   Perithecia 0.5-1mm high, scales at neck usually well
-           developed. Spores (23)26-30 × 12-17µm.
+           developed. Spores (23)26-30 Ã— 12-17Âµm.
                                           _Schizothecium conicum_ (fig. 27)
   -        Perithecia 1-2mm diam., subpyriform, neck velvety with
-           indistinct scales. Spores 24-28 × 15-19µm.
+           indistinct scales. Spores 24-28 Ã— 15-19Âµm.
                                                 _Schizothecium squamulosum_
 
-  69(66)   Spores 17-23 × 8.5-13.5µm, primary appendage slender
-           cylindrical, 6-8 × 2µm. Perithecia 0.25-0.7mm high,
+  69(66)   Spores 17-23 Ã— 8.5-13.5Âµm, primary appendage slender
+           cylindrical, 6-8 Ã— 2Âµm. Perithecia 0.25-0.7mm high,
            sometimes with poorly developed scales.
                                         _Schizothecium vesticola_ (fig. 28)
-  -        Spores 11-14 × 6-8µm, primary appendage short, 2µm long,
+  -        Spores 11-14 Ã— 6-8Âµm, primary appendage short, 2Âµm long,
            almost triangular. Perithecia 0.3-0.45mm high, with
            short agglutinated hairs.               _Schizothecium cervinum_
 
-  70(60)   Asci 4-spored. Spores 35-40 × 18-19µm.     _Podospora pauciseta_
+  70(60)   Asci 4-spored. Spores 35-40 Ã— 18-19Âµm.     _Podospora pauciseta_
   -        Asci with more than 4 spores.                                 71
 
 [Illustration: FIG. 27. Perithecia, from left, of _Podospora
@@ -1659,27 +1635,27 @@ coprophila_, immature (l) and mature (r) ascospores.]
   71(70)   Asci 8-spored.                                               72
   -        Asci with more than 8 spores.                                82
 
-  72(71)   Spores more than 45µm long.                                  73
-  -        Spores less than 45µm long.                                  74
+  72(71)   Spores more than 45Âµm long.                                  73
+  -        Spores less than 45Âµm long.                                  74
 
-  73(72)   Spores 48-60 × 27-31µm, caudae apparently striate.
+  73(72)   Spores 48-60 Ã— 27-31Âµm, caudae apparently striate.
            Perithecia superficial, covered with rigid,
-           nonagglutinated hairs up to 120µm.         _Podospora fimiseda_
-  -        Spores 50-68 × 22-32µm, caudae apparently segmented,
+           nonagglutinated hairs up to 120Âµm.         _Podospora fimiseda_
+  -        Spores 50-68 Ã— 22-32Âµm, caudae apparently segmented,
            with an intestine-like appearance. Perithecia immersed
            to superficial, with a long neck, tomentose with long
            flexuous hairs when young, more or less glabrous when
            mature.                                _Podospora intestinacea_
 
   74(72)   Perithecia superficial, ovoid to globose, covered with
-           short (up to 100µm), sparse, radiating, hyaline tipped,
-           hairs. Spores 24-31 × 11-15µm, with simple caudae.
+           short (up to 100Âµm), sparse, radiating, hyaline tipped,
+           hairs. Spores 24-31 Ã— 11-15Âµm, with simple caudae.
                                     _Podospora appendiculata_ (figs 27, 28)
   -        Perithecia with base immersed in substrate, pyriform,
            without such hairs.                                           75
 
-  75(74)   Perithecial neck with short tubercular hairs, up to 20µm
-           long. Spores 32-42 × 17-22µm, with a long but withering
+  75(74)   Perithecial neck with short tubercular hairs, up to 20Âµm
+           long. Spores 32-42 Ã— 17-22Âµm, with a long but withering
            primary appendage. Caudae in two rings, one inserted near
            the base of the primary appendage, the other at the spore
            apex. The individual filaments may be free, but often
@@ -1690,39 +1666,39 @@ coprophila_, immature (l) and mature (r) ascospores.]
   76(75)   Spores with 4 caudae at each end.                             77
   -        Spores with a single cauda at each end.                       78
 
-  77(76)   Spores 40-45 × 22-25µm.            _Podospora gwynne-vaughaniae_
-  -        Spores 29-40 × 16-25µm.                     _Podospora communis_
+  77(76)   Spores 40-45 Ã— 22-25Âµm.            _Podospora gwynne-vaughaniae_
+  -        Spores 29-40 Ã— 16-25Âµm.                     _Podospora communis_
 
-  78(76)   Spores less than 30 × 15µm.                                   79
-  -        Spores larger than 30 × 15µm.                                 80
+  78(76)   Spores less than 30 Ã— 15Âµm.                                   79
+  -        Spores larger than 30 Ã— 15Âµm.                                 80
 
-  79(78)   Spores 21-28 × 11-14µm, primary appendage 12-14 × 4µm.
+  79(78)   Spores 21-28 Ã— 11-14Âµm, primary appendage 12-14 Ã— 4Âµm.
            Perithecia 0.3-0.5mm diam., neck setose with rigid
-           cylindrical hairs. Asci 200-250 × 22-26µm, broadest
+           cylindrical hairs. Asci 200-250 Ã— 22-26Âµm, broadest
            in the middle.                             _Podospora ellisiana_
-  -        Spores 18-23 × 11-14µm, primary appendage 4-8 × 3µm.
+  -        Spores 18-23 Ã— 11-14Âµm, primary appendage 4-8 Ã— 3Âµm.
            Perithecia 0.2-0.3mm diam., neck setose with rigid
-           hairs. Asci 140-210 × 19-25µm, broadest at the markedly
+           hairs. Asci 140-210 Ã— 19-25Âµm, broadest at the markedly
            rounded apex.                            _Schizothecium pilosum_
 
-  80(78)   Perithecia ca O.9-1.4mm high × 0.6-0.7(0.85)mm diam.,
-           neck not hairy. Spores (29)36-45 × (17.5)22-27µm,
+  80(78)   Perithecia ca O.9-1.4mm high Ã— 0.6-0.7(0.85)mm diam.,
+           neck not hairy. Spores (29)36-45 Ã— (17.5)22-27Âµm,
            caudae ephemeral and difficult to see, even in Indian
            ink.                                      _Podospora pyriformis_
   -        Perithecial neck with tufts of rigid hairs.                   81
 
-  81(80)   Perithecia 0.38-0.53mm high × 0.21-0.38mm diam.,
-           ± immersed, with hairs at the neck up to 335µm long,
+  81(80)   Perithecia 0.38-0.53mm high Ã— 0.21-0.38mm diam.,
+           Â± immersed, with hairs at the neck up to 335Âµm long,
            grouped in rigid fascicles. Spores slightly flattened
-           on one side, 30-37 × 18-24µm, caudae invisible in water.
+           on one side, 30-37 Ã— 18-24Âµm, caudae invisible in water.
                                        _Podospora excentrica_ (figs 27, 28)
-  -        Perithecia ca 0.8-1.4mm high × 0.4-0.7mm diam.,
+  -        Perithecia ca 0.8-1.4mm high Ã— 0.4-0.7mm diam.,
            semi-immersed, hairy all over, flexuous below, rigid
-           and pointed at the neck up to 170µm. Spores 33-45 ×
-           22-27µm.                                  _Podospora perplexens_
+           and pointed at the neck up to 170Âµm. Spores 33-45 Ã—
+           22-27Âµm.                                  _Podospora perplexens_
 
   82(71)   Asci 16-32-spored. Perithecial neck with short tubercular
-           hairs. Spores 25-36 × 15-24µm. Caudae in two rings, one
+           hairs. Spores 25-36 Ã— 15-24Âµm. Caudae in two rings, one
            inserted at the base of the primary appendage, the other
            at the spore apex; individual filaments may be separate
            or clumped to appear as a broad single appendage
@@ -1733,33 +1709,33 @@ coprophila_, immature (l) and mature (r) ascospores.]
            more than 64 spores.                                          84
   -        Perithecia without tufts of rigid hairs. Asci 64-spored.      87
 
-  84(83)   Spores 14-17 × 9-11µm. Asci 256-spored. Perithecia ca
-           500µm diam., immersed, except for the neck, which has
-           tapered tufts of hairs up to 300µm.       _Podospora curvicolla_
+  84(83)   Spores 14-17 Ã— 9-11Âµm. Asci 256-spored. Perithecia ca
+           500Âµm diam., immersed, except for the neck, which has
+           tapered tufts of hairs up to 300Âµm.       _Podospora curvicolla_
   -        Spores larger. Perithecia semi-immersed.                      85
 
-  85(84)   Spores (18)20-26 × 12-16µm, caudae of 2-several filaments
+  85(84)   Spores (18)20-26 Ã— 12-16Âµm, caudae of 2-several filaments
            covered with granules. Asci 512-spored. Perithecia up to
-           1mm high × 0.95mm diam., neck with rigid but
-           non-agglutinated hairs up to 130µm long.
+           1mm high Ã— 0.95mm diam., neck with rigid but
+           non-agglutinated hairs up to 130Âµm long.
                                                  _Podospora granulostriata_
   -        Caudae simple, without granular appearance. Asci
-           128-spored. Perithecia not larger than 750µm high ×
-           500µm diam., with rigid, non-agglutinated hairs up
-           to 190µm long at neck.                                        86
+           128-spored. Perithecia not larger than 750Âµm high Ã—
+           500Âµm diam., with rigid, non-agglutinated hairs up
+           to 190Âµm long at neck.                                        86
 
-  86(85)   Spores 17-19 × 10-12µm.                       _Podospora setosa_
-  -        Spores 19-24 × 11-16µm.                    _Podospora tarvisina_
+  86(85)   Spores 17-19 Ã— 10-12Âµm.                       _Podospora setosa_
+  -        Spores 19-24 Ã— 11-16Âµm.                    _Podospora tarvisina_
            (See discussion in Lundqvist (1972) on these last three names)
 
-  87(83)   Spores 24-34 × 14-19µm, caudae in two rings, one inserted
+  87(83)   Spores 24-34 Ã— 14-19Âµm, caudae in two rings, one inserted
            at the base of the primary appendage, the other at the
            spore apex; individual filaments may be separate or
            clumped to appear as a broad single appendage (cf.
            _P. decipiens_/_P. pleiospora_). Perithecia ca 0.6-1.1mm
-           high × 0.4-0.5mm diam., covered with flexuous hairs or
+           high Ã— 0.4-0.5mm diam., covered with flexuous hairs or
            rarely smooth.                            _Podospora myriaspora_
-  -        Spores 15-20 × 10-15µm, caudae small, simple and
+  -        Spores 15-20 Ã— 10-15Âµm, caudae small, simple and
            evanescent. Perithecia 0.4-0.5mm high, covered with
            long flexuous hairs.                        _Podospora collapsa_
 
@@ -1775,55 +1751,55 @@ coprophila_, immature (l) and mature (r) ascospores.]
 _C. scatigena_ and _C. hansenii_. FIG. 31. Ascospores of _C. scatigena_ (l)
 and _C. ligniaria_ (r).]
 
-  90(89)   Spores 34-45 × 19-25µm, without caudae but surrounded
-           by a thin (ca 5µm) gelatinous sheath. Perithecia ca
-           0.5-0.7mm diam., ± smooth.                   _Podospora globosa_
-  -        Spores 17-20 × 8-9.5µm, flattened on one side, convex
-           on the other. Perithecia 0.3-0.45µm diam., with distal
+  90(89)   Spores 34-45 Ã— 19-25Âµm, without caudae but surrounded
+           by a thin (ca 5Âµm) gelatinous sheath. Perithecia ca
+           0.5-0.7mm diam., Â± smooth.                   _Podospora globosa_
+  -        Spores 17-20 Ã— 8-9.5Âµm, flattened on one side, convex
+           on the other. Perithecia 0.3-0.45Âµm diam., with distal
            cells of agglutinated hairs fimbriate.     _Podospora fimbriata_
 
-  91(89)   Perithecia hairy. Spores 27-32 × 16-19µm, appendage
-           15-18 × 2.5-3µm.                         _Anopodium ampullaceum_
+  91(89)   Perithecia hairy. Spores 27-32 Ã— 16-19Âµm, appendage
+           15-18 Ã— 2.5-3Âµm.                         _Anopodium ampullaceum_
   -        Perithecia glabrous.                                          92
 
-  92(91)   Spores 28-32 × 16-21µm, appendage 12-15 × 3-3.8µm.
+  92(91)   Spores 28-32 Ã— 16-21Âµm, appendage 12-15 Ã— 3-3.8Âµm.
                                                           _Anopodium epile_
-  -        Spores 30-37 × 16-20µm, appendage 24-27 × 5µm.
+  -        Spores 30-37 Ã— 16-20Âµm, appendage 24-27 Ã— 5Âµm.
                                          _'Podospora' dagobertii_ (fig. 28)
            (The combination in _Anopodium_ has not been made; see
            Lundqvist, 1964, 1972)
 
   93(88)   Spores flattened, disc shaped, with a germ slit around
-           the edge. Perithecial neck with short (up to 120µm)
+           the edge. Perithecial neck with short (up to 120Âµm)
            setae.                           (_Coniochaeta_, figs 30, 31) 94
   -        Spores ellipsoid. Perithecial neck without setae or with
-           very prominent (up to 950µm) tufts of agglutinated hairs.     99
+           very prominent (up to 950Âµm) tufts of agglutinated hairs.     99
 
   94(93)   Asci with numerous (64-128) spores.                           95
   -        Asci 8-spored.                                                96
 
-  95(94)   Spores 6-10 × 5-9 × 4-7µm. Perithecial setae up to 120µm
+  95(94)   Spores 6-10 Ã— 5-9 Ã— 4-7Âµm. Perithecial setae up to 120Âµm
            long.                           _Coniochaeta hansenii_ (fig. 30)
-  -        Spores 13-16 × 9.5-13.5 × 5.5-8µm. Perithecial setae
-           up to 35µm long.                               _Coniochaeta_ sp.
+  -        Spores 13-16 Ã— 9.5-13.5 Ã— 5.5-8Âµm. Perithecial setae
+           up to 35Âµm long.                               _Coniochaeta_ sp.
 
-  96(94)   Spores 7-9 × 6-8 × 5-6µm, slightly flattened.
+  96(94)   Spores 7-9 Ã— 6-8 Ã— 5-6Âµm, slightly flattened.
                                                    _Coniochaeta leucoplaca_
   -        Spores larger.                                                97
 
   97(96)   Spores narrowly elliptical in face view (length more than
-           2 × width), ca 13-18 × 6-9 × 4-6µm.
+           2 Ã— width), ca 13-18 Ã— 6-9 Ã— 4-6Âµm.
                                                     _Coniochaeta saccardoi_
   -        Spores broadly elliptical to nearly circular in face
-           view (length less than 2 × width).                           98
+           view (length less than 2 Ã— width).                           98
 
-  98(97)   Spores (9)10-16(20) × 7.5-10(15) × (4)5-8µm. Neck setae
-           20-50µm long.              _Coniochaeta ligniaria_ (figs 30, 31)
-  -        Spores (16)17-23 × (10)13-19 × 7.5-10(15)µm. Neck setae
-           40-80µm long.              _Coniochaeta scatigena_ (figs 30, 31)
+  98(97)   Spores (9)10-16(20) Ã— 7.5-10(15) Ã— (4)5-8Âµm. Neck setae
+           20-50Âµm long.              _Coniochaeta ligniaria_ (figs 30, 31)
+  -        Spores (16)17-23 Ã— (10)13-19 Ã— 7.5-10(15)Âµm. Neck setae
+           40-80Âµm long.              _Coniochaeta scatigena_ (figs 30, 31)
 
   99(93)   Perithecial neck with prominent agglutinated tufts of
-           rigid setae up to 950µm long. Spores 43-54 × 20-29µm,
+           rigid setae up to 950Âµm long. Spores 43-54 Ã— 20-29Âµm,
            with apical germ pore. A gelatinous sheath which surrounds
            the whole spore swells in water, and appears fringed at
            the margin and radially striate.           _Arnium macrothecium_
@@ -1844,60 +1820,60 @@ and _C. ligniaria_ (r).]
            with a small papilla at the basal end. Asci without
            complex apical plug.                   (_Sordaria_, fig. 33) 107
 
-  101(100) Spores mostly less than 25µm long.                           102
-  -        Spores more than 25µm long.                                  104
+  101(100) Spores mostly less than 25Âµm long.                           102
+  -        Spores more than 25Âµm long.                                  104
 
-  102(101) Spores 9-14 × 6-7µm.                         _Hypocopra parvula_
+  102(101) Spores 9-14 Ã— 6-7Âµm.                         _Hypocopra parvula_
   -        Spores larger.                                               103
 
   103(102) Stroma with a brown hyphal mat between perithecial necks.
-           Spores 19-27 × 10-14µm.            _Hypocopra equorum_ (fig. 32)
+           Spores 19-27 Ã— 10-14Âµm.            _Hypocopra equorum_ (fig. 32)
   -        Stroma with white hyphae between black perithecial
-           necks, becoming smooth. Spores 23-25 × 12-14µm.
+           necks, becoming smooth. Spores 23-25 Ã— 12-14Âµm.
                                                       _Hypocopra brefeldii_
 
-  104(101) Ascospores up to 15µm wide.                                  105
-  -        Ascospores 15µm or wider.                                    106
+  104(101) Ascospores up to 15Âµm wide.                                  105
+  -        Ascospores 15Âµm or wider.                                    106
 
-  105(104) Ascospores 25-31 × 10-15µm, distinctly flattened on one
+  105(104) Ascospores 25-31 Ã— 10-15Âµm, distinctly flattened on one
            side. Ascus plug blue in KI, but becoming reddish.
                                                      _Hypocopra planispora_
-  -        Ascospores 26-32 × 13-14µm, ellipsoid and narrowed
+  -        Ascospores 26-32 Ã— 13-14Âµm, ellipsoid and narrowed
            towards their ends.                    _Hypocopra stephanophora_
 
-  106(104) Ascospores 27-43 × 16-20µm.                 _Hypocopra merdaria_
-  -        Ascospores 38-50 × 19-24µm.              _Hypocopra stercoraria_
+  106(104) Ascospores 27-43 Ã— 16-20Âµm.                 _Hypocopra merdaria_
+  -        Ascospores 38-50 Ã— 19-24Âµm.              _Hypocopra stercoraria_
 
-  107(100) Spores up to 10µm long.                                      108
-  -        Spores 10µm or longer.                                       109
+  107(100) Spores up to 10Âµm long.                                      108
+  -        Spores 10Âµm or longer.                                       109
 
-  108(107) Asci 8-spored. Spores 8 × 4µm.                 _Sordaria minima_
-  -        Asci ca 128-spored. Spores 5-8 × 4-5µm.
+  108(107) Asci 8-spored. Spores 8 Ã— 4Âµm.                 _Sordaria minima_
+  -        Asci ca 128-spored. Spores 5-8 Ã— 4-5Âµm.
                                                        _Sordaria polyspora_
 
   109(107) Spores relatively narrow, at least twice as long as wide,
-           22-26 × 9-12µm. Gelatinous sheath broad, distinct.
+           22-26 Ã— 9-12Âµm. Gelatinous sheath broad, distinct.
                                                           _Sordaria alcina_
   -        Spores relatively broad, less than twice as long as wide.
                                                                         110
 
-  110(109) Spores mostly 25µm or longer.                                111
-  -        Spores up to 25µm long.                                      112
+  110(109) Spores mostly 25Âµm or longer.                                111
+  -        Spores up to 25Âµm long.                                      112
 
-  111(110) Spores (21)23-29(30) × 14.5-17(18)µm, with apiculate
+  111(110) Spores (21)23-29(30) Ã— 14.5-17(18)Âµm, with apiculate
            base. Gelatinous sheath broad, distinct. Asci 240-300
-           × 20-24µm.                                    _Sordaria superba_
-  -        Spores (26)28-35 × (17)18-22µm, with slightly apiculate
-           base. Gelatinous sheath broad, distinct. Asci 280-350 ×
-           30-35µm.                                   _Sordaria macrospora_
+           Ã— 20-24Âµm.                                    _Sordaria superba_
+  -        Spores (26)28-35 Ã— (17)18-22Âµm, with slightly apiculate
+           base. Gelatinous sheath broad, distinct. Asci 280-350 Ã—
+           30-35Âµm.                                   _Sordaria macrospora_
 
   112(110) Spores with gelatinous sheath absent or very thin,
-           19.5-25 × 15.5-19µm.                 _Sordaria humana_ (fig. 33)
-  -        Spores with gelatinous sheath, up to 15µm diam.              113
+           19.5-25 Ã— 15.5-19Âµm.                 _Sordaria humana_ (fig. 33)
+  -        Spores with gelatinous sheath, up to 15Âµm diam.              113
 
-  113(112) Spores obovoid to broadly ellipsoid, 18-23 × 12-15µm.
+  113(112) Spores obovoid to broadly ellipsoid, 18-23 Ã— 12-15Âµm.
                                                           _Sordaria lappae_
-  -        Spores ellipsoid, 17-25 × 10-14µm.
+  -        Spores ellipsoid, 17-25 Ã— 10-14Âµm.
                                               _Sordaria fimicola_ (fig. 33)
 
 [Illustration: FIG. 32. _Hypocopra equorum_, perithecium with limited
@@ -1905,125 +1881,125 @@ stroma, and detail of ascus tip with blue staining plug and spore. FIG. 33.
 Ascospores, from left, of _Sordaria fimicola_, _S. humana_ and _Sphaerodes
 fimicola_.]
 
-  114(3)   Spores 20-28 × 12-16µm, with subacute ends, each with a
+  114(3)   Spores 20-28 Ã— 12-16Âµm, with subacute ends, each with a
            germ pore.                              _Gelasinospora adjuncta_
   -        Spores larger.                                               115
 
-  115(114) Asci 4-spored. Spores 24-29 × 15-18µm, with rounded ends
+  115(114) Asci 4-spored. Spores 24-29 Ã— 15-18Âµm, with rounded ends
            and one germ pore.                   _Gelasinospora tetrasperma_
   -        Asci 8-spored. Spores 26-3              _Gelasinospora cerealis_
 
   116(4)   Perithecia orange to golden, often gregarious, almost
-           spherical, necks ca 50µm diam., 15µm high, setae at
-           ostiole hyaline, up to 35 × 3µm. Spores limoniform,
-           with a germ pore at each end, 15-25 × 9-16µm.
+           spherical, necks ca 50Âµm diam., 15Âµm high, setae at
+           ostiole hyaline, up to 35 Ã— 3Âµm. Spores limoniform,
+           with a germ pore at each end, 15-25 Ã— 9-16Âµm.
                                             _Sphaerodes fimicola_ (fig. 33)
   -        Perithecia yellow or reddish brown (darker when filled
-           with mature spores), neck 50µm long, with setae at the
-           ostiole 40-70µm long. Spores dark brown to black,
-           limoniform, 20-34 × 11-17µm, with apical germ pore.
+           with mature spores), neck 50Âµm long, with setae at the
+           ostiole 40-70Âµm long. Spores dark brown to black,
+           limoniform, 20-34 Ã— 11-17Âµm, with apical germ pore.
                                                  _Melanospora brevirostris_
 
   117(2)   Asci more than 8-spored.                         see Key 1 at 86
   -        Asci with 8 or fewer spores, or asci evanescent, not
            readily observed.                                            118
 
-  118(117) Perithecia orange/yellow, 500-1000µm diam. Spores long
-           (over 45µm) or 2-celled if shorter.                          119
+  118(117) Perithecia orange/yellow, 500-1000Âµm diam. Spores long
+           (over 45Âµm) or 2-celled if shorter.                          119
   -        Perithecia smaller, or black or with a neck. Spores
-           shorter (less than 20µm) or septate if longer.               120
+           shorter (less than 20Âµm) or septate if longer.               120
 
-  119(118) Perithecia orange, 500-1000µm diam., in small groups on
-           a limited stroma. Spores thick walled, 48-60 × 22-26µm,
+  119(118) Perithecia orange, 500-1000Âµm diam., in small groups on
+           a limited stroma. Spores thick walled, 48-60 Ã— 22-26Âµm,
            with a gelatinous sheath.                      _Selinia pulchra_
-  -        Perithecia orange yellow, superficial, ca 500µm diam.,
+  -        Perithecia orange yellow, superficial, ca 500Âµm diam.,
            with ostiole in a disc surrounded by silvery triangular
-           tufts of hyphae ca 100µm long. Spores ellipsoid,
-           1-septate, 12-14 × 4-5µm.                     _Nectria suffulta_
+           tufts of hyphae ca 100Âµm long. Spores ellipsoid,
+           1-septate, 12-14 Ã— 4-5Âµm.                     _Nectria suffulta_
 
   120(118) Perithecia reddish brown or pale, hyaline, with a
            distinct neck.                                               121
   -        Perithecia black.                                            131
 
-  121(120) Perithecia globose, up to 250µm diam., immersed, reddish
+  121(120) Perithecia globose, up to 250Âµm diam., immersed, reddish
            brown, with a neck 1-3 mm long. Asci broad ellipsoid,
-           5-8.5µm, rapidly breaking down and difficult to see.
-           Spores ellipsoid-allantoid. 5.5-7 × 1.5-2µm, collecting
+           5-8.5Âµm, rapidly breaking down and difficult to see.
+           Spores ellipsoid-allantoid. 5.5-7 Ã— 1.5-2Âµm, collecting
            in a pearly droplet at the fringed tip of the
            perithecial beak.               _Viennotidia fimicola_ (fig. 34)
-  -        Perithecia pyriform, very pale in colour, 60-200µm diam.,
-           with a neck 60-700µm long. Asci rarely visible. Spores
+  -        Perithecia pyriform, very pale in colour, 60-200Âµm diam.,
+           with a neck 60-700Âµm long. Asci rarely visible. Spores
            pointed-fusiform, 1-3 septate, often with a sheath and
            clumped together in fascicles.
                                               (_Pyxidiophora_, fig. 36) 122
 
-  122(121) Neck 95-145µm long, brown, rugose, with cells arranged
+  122(121) Neck 95-145Âµm long, brown, rugose, with cells arranged
            in 5-6 longitudinal rows visible in one view. Spores
-           38-52µm long.                        _Pyxidiophora badiorostris_
+           38-52Âµm long.                        _Pyxidiophora badiorostris_
   -        Neck not brown or rugose, composed of hyaline,
            irregularly arranged cylindrical cells.                      123
 
-  123(122) Spores less than 45µm long.                                  124
-  -        Spores more than 45µm long.                                  125
+  123(122) Spores less than 45Âµm long.                                  124
+  -        Spores more than 45Âµm long.                                  125
 
-  124(123) Spores 35-45µm long, with brown apical or subapical
+  124(123) Spores 35-45Âµm long, with brown apical or subapical
            patches of pigment.              _Pyxidiophora brunneocapitatus_
-  -        Spores 35-43µm long, without brown apical or subapical
+  -        Spores 35-43Âµm long, without brown apical or subapical
            patches of pigment.                   _Pyxidiophora microsporus_
 
-  125(123) Spores mostly 45-60µm long.                                  126
-  -        Spores mostly longer than 60µm.                              129
+  125(123) Spores mostly 45-60Âµm long.                                  126
+  -        Spores mostly longer than 60Âµm.                              129
 
 [Illustration: FIG. 34. _Viennotidia fimicola_, perithecium and spores.
 FIG. 35. _Phomatospora coprophila_, perithecium, and ascus with spores.
 FIG. 36. _Pyxidiophora petchii_, perithecium and spores.]
 
-  126(125) Perithecia 70-100µm diam., neck 100-190µm long. Spores
-           (43)48-58(65)µm long.                      _Pyxidiophora grovei_
-  -        Perithecia usually less than 80µm diam.                      127
+  126(125) Perithecia 70-100Âµm diam., neck 100-190Âµm long. Spores
+           (43)48-58(65)Âµm long.                      _Pyxidiophora grovei_
+  -        Perithecia usually less than 80Âµm diam.                      127
 
-  127(126) Perithecial necks mostly less than 100µm long. Spores
-           (45)48-57(60)µm long.                 _Pyxidiophora arvernensis_
-  -        Perithecial necks up to 200µm long.                          128
+  127(126) Perithecial necks mostly less than 100Âµm long. Spores
+           (45)48-57(60)Âµm long.                 _Pyxidiophora arvernensis_
+  -        Perithecial necks up to 200Âµm long.                          128
 
-  128(127) Spores 45-53µm long.            _Pyxidiophora petchii_ (fig. 36)
-  -        Spores 53-65µm long.                _Pyxidiophora schotterianus_
+  128(127) Spores 45-53Âµm long.            _Pyxidiophora petchii_ (fig. 36)
+  -        Spores 53-65Âµm long.                _Pyxidiophora schotterianus_
 
-  129(125) Spores 60-70µm long.                                         130
-  -        Spores (75)80-90(100)µm. Perithecia 120-160µm diam.,
-           neck 220-370µm long.                  _Pyxidiophora bainemensis_
+  129(125) Spores 60-70Âµm long.                                         130
+  -        Spores (75)80-90(100)Âµm. Perithecia 120-160Âµm diam.,
+           neck 220-370Âµm long.                  _Pyxidiophora bainemensis_
 
-  130(129) Perithecial necks 300-700µm long. Spores 60-70µm.
-           Perithecia 100-120µm diam.          _Pyxidiophora spinuliformis_
-  -        Perithecial necks 225-265µm long. Spores 65-70µm.
-           Perithecia 110-125µm diam.              _Pyxidiophora marchalii_
+  130(129) Perithecial necks 300-700Âµm long. Spores 60-70Âµm.
+           Perithecia 100-120Âµm diam.          _Pyxidiophora spinuliformis_
+  -        Perithecial necks 225-265Âµm long. Spores 65-70Âµm.
+           Perithecia 110-125Âµm diam.              _Pyxidiophora marchalii_
 
-  131(120) Perithecia small, up to 400µm diam., with hairy necks.
+  131(120) Perithecia small, up to 400Âµm diam., with hairy necks.
            Spores hyaline or pale, coppery-red en masse, extruded
            in tendrils.                                                 132
   -        Perithecia larger, without hairy necks. If smaller than
-           200µm, with spores smaller than 5 × 3µm.                     134
+           200Âµm, with spores smaller than 5 Ã— 3Âµm.                     134
 
-  132(131) Spores reniform, with gelatinous sheath, 3.5 × 2-3µm,
+  132(131) Spores reniform, with gelatinous sheath, 3.5 Ã— 2-3Âµm,
            yellow, reddish brown _en masse_ in extruded tendrils.
            Asci spherical, evanescent. Perithecia black, spherical,
-           200-400µm diam., with cylindrical neck up to 300µm long,
+           200-400Âµm diam., with cylindrical neck up to 300Âµm long,
            with sparse pointed hairs.             _Microascus longirostris_
-  -        Spores larger, not reniform. Perithecia up to 300µm diam.    133
+  -        Spores larger, not reniform. Perithecia up to 300Âµm diam.    133
 
-  133(132) Perithecial necks long, up to 750µm, with terminal hairs
-           up to 1500µm, curved or circinate at tips. Spores
-           limoniform, 7-10.5 × 5.5-7µm.            _Lophotrichus ampullus_
-  -        Perithecial necks short, ca 50µm, with long straight
-           tapering hairs. Spore shape limoniform/variable, 6-7.5 ×
-           5-5.5µm, with prominent germ pores.     _Lophotrichus bartletti_
+  133(132) Perithecial necks long, up to 750Âµm, with terminal hairs
+           up to 1500Âµm, curved or circinate at tips. Spores
+           limoniform, 7-10.5 Ã— 5.5-7Âµm.            _Lophotrichus ampullus_
+  -        Perithecial necks short, ca 50Âµm, with long straight
+           tapering hairs. Spore shape limoniform/variable, 6-7.5 Ã—
+           5-5.5Âµm, with prominent germ pores.     _Lophotrichus bartletti_
 
-  134(131) Perithecia up to 150µm diam., immersed but for a conical
-           neck 50-75µm high. Asci 50 × 2-2.5µm. Spores minute,
-           cylindrical, 3.5-4.5 × 1.75-2.5µm.
+  134(131) Perithecia up to 150Âµm diam., immersed but for a conical
+           neck 50-75Âµm high. Asci 50 Ã— 2-2.5Âµm. Spores minute,
+           cylindrical, 3.5-4.5 Ã— 1.75-2.5Âµm.
                                         _Phomatospora coprophila_ (fig. 35)
   -        Perithecia more obvious, often hairy, or tomentose when
-           young. Immature spores up to 70µm long, wavy
+           young. Immature spores up to 70Âµm long, wavy
            cylindrical, with a row of globules inside and a short
            thin appendage at each end.               (see _Cercophora_, 49)
 
@@ -2038,13 +2014,13 @@ FIG. 36. _Pyxidiophora petchii_, perithecium and spores.]
            sheath.                                     (_Podosordaria_) 137
   -        Perithecia not in a terminal head.                           139
 
-  137(136) Stalk short, 3-5mm. Spores (12)14-19 × 6-9µm, slightly
+  137(136) Stalk short, 3-5mm. Spores (12)14-19 Ã— 6-9Âµm, slightly
            flattened on one side.                   _Podosordaria leporina_
   -        Stalk long, 1-6cm. Spores larger.                            138
 
-  138(137) Spores 21-24 × 11-12µm. Stromatic stalk hairy.
+  138(137) Spores 21-24 Ã— 11-12Âµm. Stromatic stalk hairy.
                                                     _Podosordaria tulasnei_
-  -        Spores 40-60 × 20-30µm. Stromatic stalk not hairy.
+  -        Spores 40-60 Ã— 20-30Âµm. Stromatic stalk not hairy.
                                                  _Podosordaria pedunculata_
 
   139(136) Stroma externally black, rooted or partially immersed
@@ -2053,10 +2029,10 @@ FIG. 36. _Pyxidiophora petchii_, perithecium and spores.]
            ostioles.                                        (_Poronia_) 140
   -        Stroma not as above.                                         141
 
-  140(139) Spores 18-26 × 7-12µm, bean shaped, with gelatinous
+  140(139) Spores 18-26 Ã— 7-12Âµm, bean shaped, with gelatinous
            sheath. Stroma deeply rooted. Especially on horse dung.
                                                          _Poronia punctata_
-  -        Spores (22)25-32(35) × (12)14-18µm, oblong ellipsoid to
+  -        Spores (22)25-32(35) Ã— (12)14-18Âµm, oblong ellipsoid to
            slightly fusiform. Stroma not deeply rooted. Especially
            on rabbit dung near the sea.                     _Poronia erici_
 
@@ -2067,14 +2043,14 @@ FIG. 36. _Pyxidiophora petchii_, perithecium and spores.]
                                                             (_Wawelia_) 142
   -        Stroma clavate, black, partly immersed to superficial,
            usually aggregated in small groups, ca 1-1.5mm high
-           × 0.6-0.7mm diam., each containing a single perithecium.
+           Ã— 0.6-0.7mm diam., each containing a single perithecium.
            Spores ellipsoid with germ pore and gelatinous sheath.
                                                       (_Bombardioidea_) 146
 
   142(141) Stroma spreading on substrate, black brown, firm but
            not brittle. Ascomata globose, 0.5-1mm, with white
            hyphae at neck. Spores broad limoniform, 15-19
-           × 9-10µm.                                       _Wawelia effusa_
+           Ã— 9-10Âµm.                                       _Wawelia effusa_
   -        Perithecia globose to pyriform, black, brown or dark
            grey, produced laterally along the length of fine
            stromatal strand growing from the dung.                      143
@@ -2082,34 +2058,34 @@ FIG. 36. _Pyxidiophora petchii_, perithecium and spores.]
   143(142) Asci 4-spored.                                               144
   -        Asci 8-spored.                                               145
 
-  144(143) Spores 15-18 × 9-12µm. Perithecia up to 400µm diam.,
+  144(143) Spores 15-18 Ã— 9-12Âµm. Perithecia up to 400Âµm diam.,
            dark grey at maturity, single or clustered, the ostiole
            with a crown of silvery white hyphae. Stromata up to
-           30 × 0.1-0.5mm.                                    _Wawelia_ sp.
-  -        Spores 6-8 × 4-6µm. Stromata conical, white, 5-12
-           × 1-2mm.                                         _Wawelia regia_
+           30 Ã— 0.1-0.5mm.                                    _Wawelia_ sp.
+  -        Spores 6-8 Ã— 4-6Âµm. Stromata conical, white, 5-12
+           Ã— 1-2mm.                                         _Wawelia regia_
 
-  145(143) Perithecia hairy, globose, 350-500µm diam., stromatal
+  145(143) Perithecia hairy, globose, 350-500Âµm diam., stromatal
            strands up to 25mm long. Spores ellipsoid, flattened
-           on one side, 9-12 × 6-8µm.                   _Wawelia octospora_
+           on one side, 9-12 Ã— 6-8Âµm.                   _Wawelia octospora_
   -        Perithecia villose with conidiophores, globose,
-           230-420µm diam., produced laterally on stromatic
-           filaments 20-30 × 0.1-0.3mm. Filaments pink at first,
+           230-420Âµm diam., produced laterally on stromatic
+           filaments 20-30 Ã— 0.1-0.3mm. Filaments pink at first,
            with a white pointed tip, becoming brown, velvety with
            conidiophores. Spores ellipsoid to flattened on one
-           side, 7.5-9.5 × 3-4.5µm.                 _Wawelia_ sp. (fig. 37)
+           side, 7.5-9.5 Ã— 3-4.5Âµm.                 _Wawelia_ sp. (fig. 37)
 
 [Illustration: FIG. 37. _Wawelia_ sp., stromatic filaments with perithecia
 growing from a rabbit pellet, ascospores, and conidiophore and conidia.]
 
-  146(141) Asci 8-spored. Spores 20-31 × 9.5-15µm.
+  146(141) Asci 8-spored. Spores 20-31 Ã— 9.5-15Âµm.
                                               _Bombardioidea bombardioides_
   -        Asci 4-spored.                                               147
 
-  147(146) Spores 24-34 × 15-19(20)µm. Basal germ pore less
+  147(146) Spores 24-34 Ã— 15-19(20)Âµm. Basal germ pore less
            distinct than the apical one.
                                               _Bombardioidea serignanensis_
-  -        Spores 34-43 × 16-22µm. Distinct germ pore at each end
+  -        Spores 34-43 Ã— 16-22Âµm. Distinct germ pore at each end
            of spore.                              _Bombardioidea stercoris_
 
   148      Fruit bodies solitary or in small groups, each a
@@ -2119,18 +2095,18 @@ growing from a rabbit pellet, ascospores, and conidiophore and conidia.]
            cast pellets and decaying animal material.                   149
   -        Fruit bodies superficial, lacking a distinct stalk.          150
 
-  149(148) Spores 5-8 × 2-3µm. Head 1-2mm diam.
+  149(148) Spores 5-8 Ã— 2-3Âµm. Head 1-2mm diam.
                                                 _Onygena corvina_ (fig. 38)
-  -        Spores 7-9 × 4-6µm, 4-5µm. Head 2-4mm diam.
+  -        Spores 7-9 Ã— 4-6Âµm, 4-5Âµm. Head 2-4mm diam.
                                                            _Onygena equina_
 
   150(148) Fruit bodies with an external wall of loosely
-           anastomosing and interwoven hyphae, and with ±
+           anastomosing and interwoven hyphae, and with Â±
            specialised terminal cells (GYMNOTHECIA, fig. 39).           151
   -        Fruit bodies with a well defined parenchymatic wall
            (CLEISTOTHECIA, fig. 46).                                    161
 
-  151(150) Gymnothecia with simple thin-walled, ± uniform and
+  151(150) Gymnothecia with simple thin-walled, Â± uniform and
            poorly developed hyphae constituting the outer hyphal
            sheath.                                                      152
   -        Gymnothecia with thick-walled hyphae modified at their
@@ -2143,20 +2119,20 @@ ascospore.]
 
   152(151) Gymnothecia red-orange to brick-red. Ascospores orange,
            subglobose to ellipsoid, with an equatorial furrow,
-           smooth, 4.5-5.5 × 3.5-4.5µm.       _Arachniotus ruber_ (fig. 40)
+           smooth, 4.5-5.5 Ã— 3.5-4.5Âµm.       _Arachniotus ruber_ (fig. 40)
   -        Gymnothecia white or yellow, never orange or brick-red.
            Ascospores without an equatorial furrow.                     153
 
   153(152) Gymnothecia white. Ascospores hyaline, ellipsoid,
-           smooth, 3-4 × 2-2.5µm.                    _Arachniotus candidus_
+           smooth, 3-4 Ã— 2-2.5Âµm.                    _Arachniotus candidus_
   -        Gymnothecia distinctly pigmented, yellow or brown.
-           Ascospores larger than 4µm.                                  154
+           Ascospores larger than 4Âµm.                                  154
 
   154(153) Gymnothecia yellow brown. Ascospores orange to brownish,
            slightly lenticular, smooth or slightly roughened,
-           5-6.5 × 3.3-4.6µm.                       _Arachniotus confluens_
+           5-6.5 Ã— 3.3-4.6Âµm.                       _Arachniotus confluens_
   -        Gymnothecia lemon yellow. Ascospores lemon yellow,
-           lenticular, smooth, 5-6 × 3-4.5µm.        _Arachniotus citrinus_
+           lenticular, smooth, 5-6 Ã— 3-4.5Âµm.        _Arachniotus citrinus_
 
 [Illustration: FIG. 39. Habit sketch of a gymnothecium and ascus. FIGS
 40-45. Spores and peridial hyphae. FIG. 40. _Arachniotus ruber._ FIG. 41.
@@ -2165,7 +2141,7 @@ _Gymnoascus reesii._ FIG. 44. _Ctenomyces serratus._ FIG. 45. _Arthroderma
 curreyi._]
 
   155(151) Gymnothecia possessing only thick pigmented hyphae.          156
-  -        Gymnothecia possessing ± thin, hyaline hyphae with only
+  -        Gymnothecia possessing Â± thin, hyaline hyphae with only
            a few, although often distinctive, appendages (i.e.
            comb-shaped end cells or dumb-bell shaped asperulate
            cells accompanying twisted and bent hyphae).                 160
@@ -2173,7 +2149,7 @@ curreyi._]
   156(155) Gymnothecia brown-black or dark greenish-grey, with
            external hyphae with spine-like branches and septate,
            hooked appendages. Ascospores orange brownish, ovate,
-           delicately striate, 4-5.2 × 2.4-3.3µm.
+           delicately striate, 4-5.2 Ã— 2.4-3.3Âµm.
                                           _Myxotrichum chartarum_ (fig. 41)
   -        Gymnothecia never black, and, if possessing thick-walled
            hyphae, then appendages never septate. Ascospores smooth,
@@ -2184,41 +2160,41 @@ curreyi._]
            never verticillately branched. Ascospores smooth, or
            at most asperulate.                                          158
   -        Gymnothecia red-brown with appendages verticillately
-           branched. Ascospores 3-4.5 × 2-2.8µm, yellowish brown,
+           branched. Ascospores 3-4.5 Ã— 2-2.8Âµm, yellowish brown,
            lenticular.                        _Actinodendron verticillatum_
 
   158(157) Gymnothecia rosy pink when young, becoming browner,
            with spines and curved, non-septate hairs. Ascospores
            hyaline, globose to subglobose, asperulate,
-           3-5 × 2.5-4µm.             _Gymnoascus californiensis_ (fig. 42)
+           3-5 Ã— 2.5-4Âµm.             _Gymnoascus californiensis_ (fig. 42)
   -        Gymnothecia yellow. Ascospores smooth.                       159
 
   159(158) Gymnothecia yellow to yellow-brown, without elongated
            appendages but with thick-walled branches, few of
            which are pointed. Ascospores globose-ellipsoid,
-           yellow to brownish, 3-4.5 × 3.5µm.
+           yellow to brownish, 3-4.5 Ã— 3.5Âµm.
                                               _Gymnoascus reesii_ (fig. 43)
   -        Gymnothecia golden yellow to reddish-brown, with
            acute-ended appendages. Ascospores lenticular, smooth,
-           hyaline, 2.5-3.5 × 2-2.5µm.            _Pseudogymnoascus roseus_
+           hyaline, 2.5-3.5 Ã— 2-2.5Âµm.            _Pseudogymnoascus roseus_
 
   160(155) Gymnothecia orange brown, with comb-like appendages.
            Ascospores slightly lenticular, pale orange, 3.3-3.6
-           × 2-2.6µm.                       _Ctenomyces serratus_ (fig. 44)
+           Ã— 2-2.6Âµm.                       _Ctenomyces serratus_ (fig. 44)
   -        Gymnothecia whitish to pale ochraceous, particularly
            when dry, with few appendages but those present twisted
            and bent, and their branches constricted with regular
            or irregular dumb-bell shaped cells. Hyphal walls
            asperulate or with protuberances. Ascospores smooth,
-           lenticular, hyaline, 2.4-3.3 × 2µm.
+           lenticular, hyaline, 2.4-3.3 Ã— 2Âµm.
                                             _Arthroderma curreyi_ (fig. 45)
 
   161(150) Asci relatively large, 100-200-spored, 1-3/fruit body.
-           'Cleistothecia' minute, <100 (rarely <250)µm diam.,
+           'Cleistothecia' minute, <100 (rarely <250)Âµm diam.,
            immersed.                      see _Thelebolus_ etc. (Key 1, 86)
   -        Asci with 8 or fewer spores.                                 162
 
-  162(161) Ascospores purple at maturity, large, 50-70 × 25-35µm,
+  162(161) Ascospores purple at maturity, large, 50-70 Ã— 25-35Âµm,
            epispore with a few longitudinal cracks.
                                        see _Ascobolus immersus_ (Key 1, 48)
   -        Ascospores smaller, hyaline, yellow, olivaceous, brown
@@ -2229,48 +2205,48 @@ curreyi._]
 
   164(163) Ascospores 4-celled (cf. _Sporormiella_), with germ
            slits, readily fragmenting. Asci clavate, bitunicate.
-           Cleistothecia black, shiny, up to 500µm diam.                165
+           Cleistothecia black, shiny, up to 500Âµm diam.                165
   -        Ascospores 1- or 2-celled.                                   166
 
-  165(164) Ascus stalk up to 20µm long. Ascospores 25-32 × 5µm.
+  165(164) Ascus stalk up to 20Âµm long. Ascospores 25-32 Ã— 5Âµm.
                                                         _Preussia vulgaris_
-  -        Ascus stalk 30-60µm long. Ascospores 26-38 × 5-7µm.
+  -        Ascus stalk 30-60Âµm long. Ascospores 26-38 Ã— 5-7Âµm.
                                             _Preussia funiculata_ (fig. 47)
 
   166(164) Ascospores 2-celled.                                         167
   -        Ascospores 1-celled.                                         170
 
   167(166) Spores unequally 2-celled, one brown ellipsoid, with an
-           apical germ pore, 10-12 × 6.5-7.5µm, the other a basal
-           hyaline, cylindrical pedicel, 6-8 × 3µm. Cleistothecia
-           black, globose, up to 250µm diam., covered with
+           apical germ pore, 10-12 Ã— 6.5-7.5Âµm, the other a basal
+           hyaline, cylindrical pedicel, 6-8 Ã— 3Âµm. Cleistothecia
+           black, globose, up to 250Âµm diam., covered with
            flexuous brown hairs up to 1mm long. Asci evanescent.
                                                       _Zopfiella erostrata_
   -        Spores equally 2-celled.                                     168
 
   168(167) Spores not constricted at the septum, ellipsoid,
-           golden-brown, 25-30 × 10-15µm with 1-3 guttules in
+           golden-brown, 25-30 Ã— 10-15Âµm with 1-3 guttules in
            each cell. Cleistothecia gregarious on a mycelial mat,
-           whitish to pale orange, up to 500µm diam.
+           whitish to pale orange, up to 500Âµm diam.
                                         _Heleococcum aurantiacum_ (fig. 48)
   -        Spores hyaline, divided into two almost globose cells
            by the constricting septum. Ascomata superficial,
            globose, dark coloured.                      (_Mycoarachis_) 169
 
-  169(168) Asci 8-spored, 5.5-11µm diam. Spores 5-5.5 × 3-3.5µm.
+  169(168) Asci 8-spored, 5.5-11Âµm diam. Spores 5-5.5 Ã— 3-3.5Âµm.
                                                       _Mycoarachis inversa_
-  -        Asci 4-spored, 6-6.5µm diam. Spores 4.5-5 × 2-2.5µm.
+  -        Asci 4-spored, 6-6.5Âµm diam. Spores 4.5-5 Ã— 2-2.5Âµm.
                                                    _Mycoarachis tetraspora_
 
-  170(166) Asci broad-clavate, (1)-2-(3)-spored, 30-50 × 13-18µm.
+  170(166) Asci broad-clavate, (1)-2-(3)-spored, 30-50 Ã— 13-18Âµm.
            Spores brown-black with short ridges and warts,
-           subglobose, 12-15.5 × 11-12.5µm, with a single germ pore.
+           subglobose, 12-15.5 Ã— 11-12.5Âµm, with a single germ pore.
                                             _Copromyces bisporus_ (fig. 49)
   -        Asci 8-spored.                                               171
 
-  171(170) Spores globose, sooty brown, 3µm diam. Cleistothecia
+  171(170) Spores globose, sooty brown, 3Âµm diam. Cleistothecia
            gregarious, with basal spirally coiled appendages,
-           black, 100-200µm diam., partially immersed in a white
+           black, 100-200Âµm diam., partially immersed in a white
            to red felty hyphal mat.               _Pleuroascus nicholsonii_
   -        Spores larger, ellipsoid or limoniform.                      172
 
@@ -2287,54 +2263,54 @@ _Aphanoascus stercoraria._ FIG. 54. _Pseudeurotium ovale._]
   -        Spores darker, with 1 or more minute germ pores.
            Cleistothecia distinctly but not abundantly hairy.           173
 
-  173(172) Spores smoky brown, broadly ovoid, 9-14 × 6-9µm.
-           Cleistothecial hairs short, up to 30µm.
+  173(172) Spores smoky brown, broadly ovoid, 9-14 Ã— 6-9Âµm.
+           Cleistothecial hairs short, up to 30Âµm.
                                                       _Thielavia wareingii_
-  -        Spores dark brown, flattened limoniform, 13-16 × 10-13
-           × 8-9µm. Cleistothecial hairs of two types, some smooth,
+  -        Spores dark brown, flattened limoniform, 13-16 Ã— 10-13
+           Ã— 8-9Âµm. Cleistothecial hairs of two types, some smooth,
            dark brown, arising from the base up to 3mm long,
-           others greyish green, rough, up to ca 120µm.
+           others greyish green, rough, up to ca 120Âµm.
                                                          _Thielavia fimeti_
 
   174(163) Cleistothecia produced within a common arachnoid
            mycelial mass. Spores smooth or minutely asperulate,
-           yellow to yellow-brown, broadly ellipsoid, 4-5 × 3-5µm.
+           yellow to yellow-brown, broadly ellipsoid, 4-5 Ã— 3-5Âµm.
                                                    _Aphanoascus fulvescens_
   -        Cleistothecia single or gregarious, but not on or in
            a mycelial mass.                                             175
 
-  175(174) Cleistothecia 170-750µm diam., covered with long
+  175(174) Cleistothecia 170-750Âµm diam., covered with long
            (several mm when extended), thick-walled, aseptate,
            helical appendages. Asci clavate cylindrical,
-           evanescent, 35-62 × 12-21µm. Spores ellipsoid, hyaline,
-           12-17 × 9-12µm.                          _Lasiobolidium spirale_
+           evanescent, 35-62 Ã— 12-21Âµm. Spores ellipsoid, hyaline,
+           12-17 Ã— 9-12Âµm.                          _Lasiobolidium spirale_
   -        Cleistothecia without coiled appendages.                     176
 
   176(175) Cleistothecia with hairs or appendages.                      177
   -        Cleistothecia smooth.                                        178
 
-  177(176) Cleistothecia black, shining, 100-200µm diam., with dark
+  177(176) Cleistothecia black, shining, 100-200Âµm diam., with dark
            brown-black thick-walled hairs with hooked tips. Asci
-           8-15µm diam. Spores straw or copper coloured, ellipsoid,
-           4-7 × 3.5-4.5µm with de Bary bubble and a germ pore at
+           8-15Âµm diam. Spores straw or copper coloured, ellipsoid,
+           4-7 Ã— 3.5-4.5Âµm with de Bary bubble and a germ pore at
            each end.                                        _Kernia nitida_
   -        Cleistothecia reddish brown, less than 1mm diam., with
            long simple appendages curled at the tips. Spores
-           hyaline, oblate, 3.55 × 2-3µm.
+           hyaline, oblate, 3.55 Ã— 2-3Âµm.
                                            _Arachnomyces nitidus_ (fig. 50)
 
-  178(176) Ascospores globose, larger than 9µm.                         179
-  -        Ascospores ellipsoid, up to 9µm. Asci always subglobose.     180
+  178(176) Ascospores globose, larger than 9Âµm.                         179
+  -        Ascospores ellipsoid, up to 9Âµm. Asci always subglobose.     180
 
-  179(178) Ascospores, smooth, 9-13µm.       _Orbicula parietina_ (fig. 51)
-  -        Ascospores ornamented, 13-24µm Asci subglobose.
+  179(178) Ascospores, smooth, 9-13Âµm.       _Orbicula parietina_ (fig. 51)
+  -        Ascospores ornamented, 13-24Âµm Asci subglobose.
            Cleistothecia ochraceous, becoming yellowish brown
            or flushed cinnamon.           _Roumegueriella rufula_ (fig. 52)
 
   180(178) Ascospores hyaline, then faintly yellowish, minutely
-           spiny, 2.5-3 × 2-2.5µm. Cleistothecia pale, then
+           spiny, 2.5-3 Ã— 2-2.5Âµm. Cleistothecia pale, then
            dark brown.                  _Aphanoascus stercoraria_ (fig. 53)
-  -        Ascospores hyaline, then brown, smooth, 5.5-6 × 3.5-4µm.
+  -        Ascospores hyaline, then brown, smooth, 5.5-6 Ã— 3.5-4Âµm.
            Cleistothecia dark brown from the beginning.
                                             _Pseudeurotium ovale_ (fig. 54)
 
@@ -2428,12 +2404,12 @@ basidium, lateral view and as often seen in sections.]
   -        Stem with hairs and lageniform cystidia.
            [Illustration]                                                16
 
-  15(14)   Spores 11-14 × 7-9µm. Taste and smell strong, of fresh
+  15(14)   Spores 11-14 Ã— 7-9Âµm. Taste and smell strong, of fresh
            meal.                                       _Conocybe farinacea_
-  -        Spores large, over 15 × up to 10µm. Taste and smell
+  -        Spores large, over 15 Ã— up to 10Âµm. Taste and smell
            none or slightly acidic.                    _Conocybe pubescens_
            (_C. subpubescens_ might be found on straw/dung mixtures, and
-           differs in spores 11-13 × 6-8µm).
+           differs in spores 11-13 Ã— 6-8Âµm).
 
   16(14)   Basidia 2-spored.                            _Conocybe rickenii_
   -        Basidia 4-spored.                                             17
@@ -2443,12 +2419,12 @@ basidium, lateral view and as often seen in sections.]
                                                   _Conocybe lenticulospora_
 
   18(17)   Cap grey, contrasting with yellowish cream gills and
-           pale stem. Spores 10.5-12.5 × 6-7µm.        _Conocybe murinacea_
+           pale stem. Spores 10.5-12.5 Ã— 6-7Âµm.        _Conocybe murinacea_
   -        Cap pinkish brown or tawny.                                   19
 
-  19(18)   Spores 11-12 × 7.2-7.8µm. Cap sienna. On raw dung.
+  19(18)   Spores 11-12 Ã— 7.2-7.8Âµm. Cap sienna. On raw dung.
                                                        _Conocybe fimetaria_
-  -        Spores 10-12 × 6-7µm. Cap pinkish to cinnamon brown.
+  -        Spores 10-12 Ã— 6-7Âµm. Cap pinkish to cinnamon brown.
            On manured soil or sewage sludge.
                                                   _Conocybe fuscomarginata_
            (_Conocybe siennophylla_ might be found on straw/dung mixtures
@@ -2480,46 +2456,46 @@ crystalline (r) ornamentation.]
   23(22)   Cap minute, 1-5mm high before expanding, reddish orange
            at first, soon fading. Basidiospores almost globose
            to triangular in one view, elliptic in another, 7-10
-           × 7-9 × 5.5-6.5µm. (2- and 4-spored forms have been
+           Ã— 7-9 Ã— 5.5-6.5Âµm. (2- and 4-spored forms have been
            found).                                         _Coprinus miser_
   -        Cap larger, up to 15mm when expanded. Basidiospores
-           pip-shaped, 7.5-8.5 × 9.5-11 × 9.5-11.5µm. (4-spored).
+           pip-shaped, 7.5-8.5 Ã— 9.5-11 Ã— 9.5-11.5Âµm. (4-spored).
                                                         _Coprinus nudiceps_
 
-  24(22)   Spores hexagonal, 10-13 × 6.5-7.5µm. Cap purplish.
+  24(22)   Spores hexagonal, 10-13 Ã— 6.5-7.5Âµm. Cap purplish.
                                                   _Coprinus hexagonosporus_
   -        Spores ellipsoid. Cap brown or reddish, without
            purplish tints.                                               25
 
   25(24)   Basidia 4-spored.                                             26
-  -        Basidia 2-spored. Spores 11-13 × 5.5-7µm. Facial
+  -        Basidia 2-spored. Spores 11-13 Ã— 5.5-7Âµm. Facial
            cystidia absent.                             _Coprinus bisporus_
            (_Coprinus sassii_, not yet recorded in British Isles, has
-           2-spored basidia with very large ellipsoid spores up to 20µm
+           2-spored basidia with very large ellipsoid spores up to 20Âµm
            long).
 
   26(25)   Cap with a mixture of hyaline and brown thick-walled
-           setules. Spores 9-10 × 5.5-6µm, with eccentric germ
+           setules. Spores 9-10 Ã— 5.5-6Âµm, with eccentric germ
            pore. Facial cystidia absent.
                                                  _Coprinus heterosetulosus_
   -        Cap with only one type of setule. Facial cystidia
            present or absent.                                            27
 
-  27(26)   Facial cystidia present. Spores 7.9-13.3 × 4.4-6.4µm,
+  27(26)   Facial cystidia present. Spores 7.9-13.3 Ã— 4.4-6.4Âµm,
            with apical germ pore.                      _Coprinus stellatus_
   -        Facial cystidia absent. Spores elongate and narrow,
-           rarely greater than 5µm wide, with apical germ pore.
+           rarely greater than 5Âµm wide, with apical germ pore.
            Fruit body usually quite small, up to 6mm before
            expanding.                       _Coprinus pellucidus_ (fig. 58)
            (Several species in the group, e.g. _C. congregatus_ and
            _C. ephemerus_ have been found on straw/dung mixtures).
 
   28(21)   Veil strongly adhering to cap. Spores elliptic ovate,
-           15-20 × 8-12µm. Stem with distinct ring. Usually on
+           15-20 Ã— 8-12Âµm. Stem with distinct ring. Usually on
            buried dung.                             _Coprinus sterquilinus_
   -        Veil more floccose or powdery. Stem lacking ring or,
            if present (_C. ephemeroides_), fruit body small with
-           5-angled spores less than 10µm long.                          29
+           5-angled spores less than 10Âµm long.                          29
 
   29(28)   Veil composed of filamentous units.                           30
   -        Filamentous units, if present, masked by a preponderance
@@ -2529,10 +2505,10 @@ crystalline (r) ornamentation.]
            hyaline cells.                                                31
   -        Veil composed of rather narrow, slightly thickened hyphae.    32
 
-  31(30)   Spores large, 11-14 × 6-7µm. Cap up to 1cm before
+  31(30)   Spores large, 11-14 Ã— 6-7Âµm. Cap up to 1cm before
            expanding. Fruit body with or without a rooting base.
                                                         _Coprinus radiatus_
-  -        Spores smaller, up to 9µm long. Cap up to 6mm before
+  -        Spores smaller, up to 9Âµm long. Cap up to 6mm before
            expanding. Fruit body without a rooting base.
                                         _Coprinus pseudoradiatus_ (fig. 59)
            (_C. cinereus_ is found on straw/dung mixture and
@@ -2543,22 +2519,22 @@ crystalline (r) ornamentation.]
            and brown strongly coloured hyphae.                           33
   -        Veil grey or whitish.                                         34
 
-  33(32)   Veil of yellow hyphae. Spores 10.5-12.5 × 6-7.5µm.
+  33(32)   Veil of yellow hyphae. Spores 10.5-12.5 Ã— 6-7.5Âµm.
                                                    _Coprinus luteocephalus_
-  -        Veil with brown hyphae. Spores 7-9 × 3.5-5µm.
+  -        Veil with brown hyphae. Spores 7-9 Ã— 3.5-5Âµm.
                                                      _Coprinus poliomallus_
 
-  34(32)   Veil hyphae thin-walled. Spores 6.5-7.5 × 5µm,
+  34(32)   Veil hyphae thin-walled. Spores 6.5-7.5 Ã— 5Âµm,
            'shouldered' about the apiculus.
                                           _Coprinus filamentifer_ (fig. 61)
   -        Veil hyphae thin- and thick-walled, often with clamps.
-           Spores elliptic-oblong, 9-10 × 5-6µm.
+           Spores elliptic-oblong, 9-10 Ã— 5-6Âµm.
                                           _Coprinus vermiculifer_ (fig. 60)
-           (_Coprinus flocculosus_, with spores 11.5-16.5 × 6-9.5µm, can
+           (_Coprinus flocculosus_, with spores 11.5-16.5 Ã— 6-9.5Âµm, can
            be found on straw/dung mixtures).
 
   35(29)   Stem with small, distinct ring. Spores subglobose to
-           lentiform and 5-angled, 6-9 × 6.5-8 × 5-6µm.
+           lentiform and 5-angled, 6-9 Ã— 6.5-8 Ã— 5-6Âµm.
                                                     _Coprinus ephemeroides_
   -        Stem at most with fibrils, even then rarely forming a
            faint ring zone.                                              36
@@ -2566,13 +2542,13 @@ crystalline (r) ornamentation.]
   36(35)   with setules in addition to veil.                             37
   -        Cap without setules.                                          38
 
-  37(36)   Cap cystidia tapered. Spores 11-14 × 5-6.5µm.
+  37(36)   Cap cystidia tapered. Spores 11-14 Ã— 5-6.5Âµm.
                                                       _Coprinus heptemerus_
-  -        Cap cystidia capitate. Spores 10-11 × 6-7µm.
+  -        Cap cystidia capitate. Spores 10-11 Ã— 6-7Âµm.
                                                           _Coprinus curtus_
 
   38(36)   Veil of inflated bladder-like cells attached to
-           filamentous units. Spores 7.5-8 × 4.5-5.5µm.
+           filamentous units. Spores 7.5-8 Ã— 4.5-5.5Âµm.
                                                          _Coprinus utrifer_
   -        Veil of globose and subglobose cells and filamentous
            units often encrusted or with minute projections found
@@ -2586,41 +2562,41 @@ crystalline (r) ornamentation.]
   40(39)   Basidia 2-spored.                                             41
   -        Basidia 4-spored.                                             42
 
-  41(40)   Spores 14-17 × 8.5-10 × 12.5-14µm.       _Coprinus pachyspermus_
-  -        Spores smaller, 9-11 × 6-6.5 × 8-9µm.     _Coprinus cordisporus_
+  41(40)   Spores 14-17 Ã— 8.5-10 Ã— 12.5-14Âµm.       _Coprinus pachyspermus_
+  -        Spores smaller, 9-11 Ã— 6-6.5 Ã— 8-9Âµm.     _Coprinus cordisporus_
                                                             (2-spored form)
 
-  42(40)   Spores less than 10µm long.     _Coprinus cordisporus_ (fig. 63)
+  42(40)   Spores less than 10Âµm long.     _Coprinus cordisporus_ (fig. 63)
            (_C. patouillardii_ is known on garden refuse, and an
            undescribed species with lemon-shaped spores has recently
            been found).
-  -        Spores 10µm or more long.                                     43
+  -        Spores 10Âµm or more long.                                     43
 
   43(42)   Veil soon discolouring greyish, drab or buff, Spores
-           11.5-14.5 × 6-8 × 7.5-9µm.                _Coprinus cothurnatus_
+           11.5-14.5 Ã— 6-8 Ã— 7.5-9Âµm.                _Coprinus cothurnatus_
   -        Veil remaining snowy white, only slowly discolouring
            greyish.                                                      44
 
-  44(43)   Fruit bodies several cm tall. Spores 15-19 × 8.5-11.5 ×
-           11-13µm.                                       _Coprinus niveus_
-  -        Cap small, 5-6mm at first. Spores 14-16 x 8-9 ×
-           10-12.5µm.                                 _Coprinus latisporus_
+  44(43)   Fruit bodies several cm tall. Spores 15-19 Ã— 8.5-11.5 Ã—
+           11-13Âµm.                                       _Coprinus niveus_
+  -        Cap small, 5-6mm at first. Spores 14-16 x 8-9 Ã—
+           10-12.5Âµm.                                 _Coprinus latisporus_
 
   45(39)   Basidia 3-spored.                                             46
   -        Basidia 4-spored.                                             47
 
-  46(45)   Spores narrow, 8.5-11 × 5-6.2µm.              _Coprinus triplex_
-  -        Spores broad, 9-10 x 6-6.5 × 6-7µm, slightly flattened
+  46(45)   Spores narrow, 8.5-11 Ã— 5-6.2Âµm.              _Coprinus triplex_
+  -        Spores broad, 9-10 x 6-6.5 Ã— 6-7Âµm, slightly flattened
            in face view.                               _Coprinus trisporus_
            (These are possibly a single taxon).
 
-  47(45)   Spores 7-8 × 4-4.5µm, perispore not visible in water
+  47(45)   Spores 7-8 Ã— 4-4.5Âµm, perispore not visible in water
            or alkali mounts.                _Coprinus stercoreus_ (fig. 62)
-  -        Spores 9µm or more long.                                      48
+  -        Spores 9Âµm or more long.                                      48
 
-  48(47)   Spores 9-11 × 5.5-6µm. Perisporal sac none or
+  48(47)   Spores 9-11 Ã— 5.5-6Âµm. Perisporal sac none or
            incomplete or indistinct.                 _Coprinus foetidellus_
-  -        Spores longer, 10.8-13.5 × 5.5-7µm, with distinct
+  -        Spores longer, 10.8-13.5 Ã— 5.5-7Âµm, with distinct
            perispore with dark lines and inclusions. Distinctive
            smell of gas.                              _Coprinus narcoticus_
            (_C. sclerotiger_ is found on straw/dung mixtures, and the
@@ -2670,21 +2646,21 @@ crystalline (r) ornamentation.]
            (Red-capped _P. aurantia_ can be found on straw/mulch mixtures
            in gardens).
 
-  57(56)   Cap sticky, semi-globate ± expanding at maturity. On raw
+  57(56)   Cap sticky, semi-globate Â± expanding at maturity. On raw
            dung.                                   _Stropharia semiglobata_
   -        Cap plano-convex, often broad with a central umbo,
            margin flaring with age. On dungy mixtures in
            gardens.                                _Stropharia stercoraria_
 
-  58(56)   Stipe bluing, with ring. Spores ellipsoid, 11-14 ×
-           6.5-7.5µm. Fruit body with mealy smell and taste.
+  58(56)   Stipe bluing, with ring. Spores ellipsoid, 11-14 Ã—
+           6.5-7.5Âµm. Fruit body with mealy smell and taste.
                                                       _Psilocybe fimetaria_
   -        Stipe lacking distinct ring, or if with ring or ring
            zone 2-spored and/or stem not bluing. Fruit body without
            mealy smell and taste.                                        59
 
   59(58)   Stem always with distinct ring. Basidia 2-spored.
-           Spores 15-20µm long.                     _Psilocybe luteonitens_
+           Spores 15-20Âµm long.                     _Psilocybe luteonitens_
   -        Stem with or without ring. Basidia 4-spored. If with
            ring, spores smaller.                                         60
 
@@ -2692,15 +2668,15 @@ crystalline (r) ornamentation.]
   -        Lacking velar remnants on stem, or only appendiculate
            teeth at cap margin.                                          62
 
-  61(60)   Spores slightly angular/limoniform, 11-13(14) × 7-8µm.
+  61(60)   Spores slightly angular/limoniform, 11-13(14) Ã— 7-8Âµm.
            Often on sewage sludge.                     _Psilocybe merdaria_
-  -        Spores 13-14 × 7.5-8.5µm.                   _Psilocybe moelleri_
+  -        Spores 13-14 Ã— 7.5-8.5Âµm.                   _Psilocybe moelleri_
 
-  62(60)   Spores 14-20 × 8-10µm.                 _Psilocybe subcoprophila_
+  62(60)   Spores 14-20 Ã— 8-10Âµm.                 _Psilocybe subcoprophila_
   -        Spores smaller.                                               63
 
-  63(62)   Spores lentiform, angled, 6-8(8.5) × 4.5-5.5 ×
-           3.75-4.5µm.                                 _Psilocybe bullacea_
+  63(62)   Spores lentiform, angled, 6-8(8.5) Ã— 4.5-5.5 Ã—
+           3.75-4.5Âµm.                                 _Psilocybe bullacea_
            (_P. crobula_, occasional on dung, differs in lacking purple
            colour in gills, and slightly smaller, ovoid, not angular,
            spores).
@@ -2710,8 +2686,8 @@ crystalline (r) ornamentation.]
                                                       _Psilocybe merdicola_
   -        Spores lentiform, angular.                                    65
 
-  65(64)   Spores 11-13(14) × 7-8(9)µm.        see _Psilocybe merdaria_, 61
-  -        Spores 12-15 × 8-9.5µm                    _Psilocybe coprophila_
+  65(64)   Spores 11-13(14) Ã— 7-8(9)Âµm.        see _Psilocybe merdaria_, 61
+  -        Spores 12-15 Ã— 8-9.5Âµm                    _Psilocybe coprophila_
 
   66(49)   Round cells on cap as a micaceous veil. (Re-examine
            gill face; if different sized basidia and facial
@@ -2720,10 +2696,10 @@ crystalline (r) ornamentation.]
   -        Cap lacking veil, or if present then fibrillar.               67
 
   67(66)   White copious veil at margin or also covering cap
-           centre. Spores 10-12 × 5.5-6µm.           _Psathyrella coprobia_
+           centre. Spores 10-12 Ã— 5.5-6Âµm.           _Psathyrella coprobia_
   -        Lacking copious veil.                                         68
 
-  68(67)   With red edge to gill. Spores 12-13 × 6-6.5µm, with
+  68(67)   With red edge to gill. Spores 12-13 Ã— 6-6.5Âµm, with
            central germ pore.                     _Psathyrella stercoraria_
   -        Lacking red gill edge. Spores with eccentric germ pore.
                                                    _Psathyrella coprophila_
@@ -2736,9 +2712,9 @@ crystalline (r) ornamentation.]
   -        Fruit bodies effuse, resupinate                               70
 
   70(69)   Fruit-body cobweb-like and greyish white. Basal hyphae
-           3-4.5µm wide. Spores sub-globose, 4.5µm diam. (Generally
+           3-4.5Âµm wide. Spores sub-globose, 4.5Âµm diam. (Generally
            on old dung or straw/soil mixtures).        _Athelia coprophila_
-           (If with spiny spores 5-6µm diam., see the recently recorded
+           (If with spiny spores 5-6Âµm diam., see the recently recorded
            _Tomentellopsis echinospora_).
   -        Fruit-body with pores, white or flushed slightly
            ochraceous, brownish or greyish. (On clods of soil in
@@ -2756,12 +2732,12 @@ crystalline (r) ornamentation.]
            pellets).                                   _Cyathus stercoreus_
            (_Cyathus vernicosus_ often grows in plant pots on rich soil).
 
-  73(71)   Basidia with transverse septa. Spores 11 × 7µm. Fruit
+  73(71)   Basidia with transverse septa. Spores 11 Ã— 7Âµm. Fruit
            body pinkish.                              _Platygloea fimicola_
            (Not British; included for completeness. _Pilacrella solani_,
            with a glistening stipitate head, has been isolated from
            dungy soil).
-  -        Basidia with longitudinal septa. Spores 14-18 × 9-10µm.
+  -        Basidia with longitudinal septa. Spores 14-18 Ã— 9-10Âµm.
            Fruit body cream-white or ivory.           _Sebacina incrustans_
 
 [Illustration: FIG. 65. Habit sketch of _Typhula_ sp. Note attachment to
@@ -2787,8 +2763,8 @@ Key 4. Zygomycota
            Sporangia tough walled, black, projected some distance
            towards the light when mature, and sticking to whatever
            they hit.                                  _Pilobolus_ (fig. 76)
-              e.g. spores pale yellow, 8-10 × 5-6µm - _P. crystallinus_
-                     spores orange, 12-20 × 6-10µm. - _P. kleinii_
+              e.g. spores pale yellow, 8-10 Ã— 5-6Âµm - _P. crystallinus_
+                     spores orange, 12-20 Ã— 6-10Âµm. - _P. kleinii_
   -        Sporangiophores not stout; sporangia not violently
            discharged.                                                    3
 
@@ -2797,8 +2773,8 @@ Key 4. Zygomycota
            attached to whatever they contact after the marked
            elongation of the white sporangiophores at maturity.
                                                         _Pilaira_ (fig. 75)
-                  e.g. spores yellowish, 8-10 × 6µm - _P. anomala_
-                   spores colourless, 11-13 × 6-8µm - _P. moreaui_
+                  e.g. spores yellowish, 8-10 Ã— 6Âµm - _P. anomala_
+                   spores colourless, 11-13 Ã— 6-8Âµm - _P. moreaui_
   -        Sporangial wall diffluent, spores readily removed in
            a droplet, or fragile and then spores easily dispersed
            by external violence.                                          4
@@ -2806,9 +2782,9 @@ Key 4. Zygomycota
   4(3)     Sporangiophores stiff and metallic in appearance,
            growing towards the light and often to great length
            (5-30cm).                                           _Phycomyces_
-             e.g. spores 10.5-30 × 6.5-17µm; columella pyriform;
+             e.g. spores 10.5-30 Ã— 6.5-17Âµm; columella pyriform;
                                    sporangiophores up to 30cm - _P. nitens_
-             spores 8-13 × 5-7.5µm; columella spherical or ovoid;
+             spores 8-13 Ã— 5-7.5Âµm; columella spherical or ovoid;
                             sporangiophores up to 30cm - _P. blakesleeanus_
   -        Sporangiophores white, not reaching extreme lengths.           5
 
@@ -2827,16 +2803,16 @@ Key 4. Zygomycota
            their length, but rarely beneath the groups of
            sporangiophores.                             _Absidia_ (fig. 71)
                     e.g. sporangiophores grouped, rhizoids poorly
-                       developed; spores 2.5-4.5µm diam. - _A. corymbifera_
+                       developed; spores 2.5-4.5Âµm diam. - _A. corymbifera_
             sporangiophores grouped, rhizoids strongly developed;
-                                     spores 2.5-3.5µm diam. - _A. orchidis_
+                                     spores 2.5-3.5Âµm diam. - _A. orchidis_
 
   8(7)     Sporangiophores mostly unbranched.          _Rhizopus_ (fig. 69)
-             e.g. spores irregularly angular-ovoid, 8-14 × 11µm
+             e.g. spores irregularly angular-ovoid, 8-14 Ã— 11Âµm
                                                            - _R. nigricans_
   -        Sporangiophores with a whorl of branches beneath the
            main sporangium, each with a small columellate
-           sporangium. Spores 6-8.5µm.                _Actinomucor elegans_
+           sporangium. Spores 6-8.5Âµm.                _Actinomucor elegans_
 
 [Illustration: FIG. 68. _Mucor_, habit and detail of sporangium before and
 after dehiscence. FIG. 69. _Rhizopus_, habit. FIG. 70. _Thamnidium
@@ -2861,28 +2837,28 @@ tardigrade, sporangiophore and sporangia.]
            left after spore dispersal. Individual sporangiophores
            observable with unaided eye, up to 20mm long.
                                                           _Mucor_ (fig. 68)
-                        e.g. spores smooth, 7-8 × 2.5-4.5µm - _M. hiemalis_
-                                spores smooth, 6-12 x 3-6µm - _M. mucedo_
-                            spores asperulate, 5-8.µm diam. - _M. plumbeus_
+                        e.g. spores smooth, 7-8 Ã— 2.5-4.5Âµm - _M. hiemalis_
+                                spores smooth, 6-12 x 3-6Âµm - _M. mucedo_
+                            spores asperulate, 5-8.Âµm diam. - _M. plumbeus_
            (N.B. _Zygorhynchus_ would key out with _Mucor_. It is more
            often isolated from soil, and is distinguished from _Mucor_
            by the presence of zygospores with unequal suspensors)
   -        Sporangia white, without a columella, readily becoming
            a spore droplet. Sporangiophores delicate, often only
-           200-400µm long. Fine, white, garlic-smelling mycelium
+           200-400Âµm long. Fine, white, garlic-smelling mycelium
            often present.                           _Mortierella_ (fig. 72)
-           e.g. spores 16-27µm diam, few in each sporangium;
-           sporangiophores ca 150µm, with short lateral branches
+           e.g. spores 16-27Âµm diam, few in each sporangium;
+           sporangiophores ca 150Âµm, with short lateral branches
                                           at right angles - _M. reticulata_
-           spores 6-10 x 4-6µm; sporangiophores 2-3mm high,
+           spores 6-10 x 4-6Âµm; sporangiophores 2-3mm high,
                                     with ascending branches - _M. bainieri_
-          spores 4-10µm; sporangiophores richly branched - _M. candelabrum_
+          spores 4-10Âµm; sporangiophores richly branched - _M. candelabrum_
 
   10(5)    Sporangioles formed at the final tips of a densely
            dichotomous system of branchlets, originating some
            distance below a terminal sporangium (which may be
-           absent in young specimens). Sporangioles up to 25µm
-           diam., with up to 6 spores. Spores 8-12 × 6-8µm.
+           absent in young specimens). Sporangioles up to 25Âµm
+           diam., with up to 6 spores. Spores 8-12 Ã— 6-8Âµm.
                                              _Thamnidium elegans_ (fig. 70)
   -        Sporangioles either at the curved tips of slender
            branches, or clustered in groups about halfway along
@@ -2890,10 +2866,10 @@ tardigrade, sporangiophore and sporangia.]
            below the sporangium; the branch tips of the latter
            give the fertile portion of the sporangiophore a
            bristly appearance.                     _Helicostylum_ (fig. 73)
-                  e.g. spores 8-17 × 3-7µm; sporangioles on short
+                  e.g. spores 8-17 Ã— 3-7Âµm; sporangioles on short
                 secondary or tertiary branches; fertile region bristly
                                       with sterile branches - _H. fresenii_
-                spores 6-8 × 4µm; sporangioles reflexed, on slender
+                spores 6-8 Ã— 4Âµm; sporangioles reflexed, on slender
               primary or secondary branches; fertile region without
                                           sterile branches - _H. pyriforme_
 
@@ -2903,16 +2879,16 @@ tardigrade, sporangiophore and sporangia.]
   12(11)   Sporangiophores regularly and repeatedly dichotomously
            branched. Chains of 2-10 spores produced in small
            groups, which may be wet or dry, on deciduous heads,
-           4-15µm diam. Parasitic on other fungi, mostly other
+           4-15Âµm diam. Parasitic on other fungi, mostly other
            Mucorales.                             _Piptocephalis_ (fig. 78)
-              e.g. spores 4-5 × 2-3µm, in pairs; heads dry -  _P. lepidula_
-                spores 5-6 × 2-2.5µm, in chains of 4-9;
+              e.g. spores 4-5 Ã— 2-3Âµm, in pairs; heads dry -  _P. lepidula_
+                spores 5-6 Ã— 2-2.5Âµm, in chains of 4-9;
                                              heads dry - _P. cylindrospora_
-                spores 4-8 × 2-4µm, in chains of 3-5; heads dry;
+                spores 4-8 Ã— 2-4Âµm, in chains of 3-5; heads dry;
                           sporangiophore without rhizoids - _P. freseniana_
-                spores 4-6 × 4-4.5µm, in chains of 3-6; heads wet;
+                spores 4-6 Ã— 4-4.5Âµm, in chains of 3-6; heads wet;
                                  sporangiophore with rhizoids - _P. repens_
-                spores 3-5 × 2-2.5µm, in chains of 3-5, heads wet; head
+                spores 3-5 Ã— 2-2.5Âµm, in chains of 3-5, heads wet; head
                 cell lyses, to leave only a fringe at the tip of the
                                   very fine sporangiophore - _P. fimbriata_
   -        Sporangiophores simple or irregularly branched.               13
@@ -2920,18 +2896,18 @@ tardigrade, sporangiophore and sporangia.]
   13(12)   A large conspicuous fungus, macroscopically Mucor-like,
            mycelium coarse. Sporangiophores with a distinct terminal
            swelling with crowded spore chains. Spores usually 5-10
-           in a chain, globose to ovoid, 2-8 × 4-6µm.
+           in a chain, globose to ovoid, 2-8 Ã— 4-6Âµm.
                                       _Syncephalastrum racemosum_ (fig. 81)
-  -        Sporangiophores less conspicuous, 100-1000µm high, with
+  -        Sporangiophores less conspicuous, 100-1000Âµm high, with
            a 'holdfast' at the base attaching the sporangiophore to
            the substrate. Mycelium very fine. Parasitic on other
            Mucorales.                               _Syncephalis_ (fig. 77)
-                        e.g. sporangiophores 100-200µm high, with three
+                        e.g. sporangiophores 100-200Âµm high, with three
                  'nodes' along their length; merosporangia often forked
-                         at the basal cell; spores 8-10 × 6µm - _S. nodosa_
-                        sporangiophores up to 750µm high; merosporangia
+                         at the basal cell; spores 8-10 Ã— 6Âµm - _S. nodosa_
+                        sporangiophores up to 750Âµm high; merosporangia
                 usually subdivided at their base into several branches,
-                 each with 5-10 spores; spores 5-10 × 3-4µm - _S. depressa_
+                 each with 5-10 spores; spores 5-10 Ã— 3-4Âµm - _S. depressa_
            (N.B. _Oedocephalum_ spp. (fig. 79), the anamorphic states of
            many dung fungi (esp. Ascobolaceae and Pezizaceae),
            _Rhopalomyces_ (fig. 80), and some _Aspergillus_ spp. are
@@ -2947,9 +2923,9 @@ tardigrade, sporangiophore and sporangia.]
            (No parasitism has been demonstrated, but in culture
            grows much better in the presence of the white,
            garlic-smelling _Mortierella_ spp.).       _Coemansia_ (fig. 82)
-           e.g. spores 6-11µm long; sporoclades spirally arranged
+           e.g. spores 6-11Âµm long; sporoclades spirally arranged
                                               around the axis - _C. erecta_
-           spores 16-18µm long; sporoclades formed on one side of the
+           spores 16-18Âµm long; sporoclades formed on one side of the
                     axis, causing it to curve to one side - _C. scorpoidea_
   -        Sporoclades produced in a terminal verticil.
            Sporangiophores shining white.
@@ -2962,13 +2938,13 @@ tardigrade, sporangiophore and sporangia.]
            _Helicostylum_. Capable of parasitising, and growing
            much better in association with, other Mucorales.
                                                   _Chaetocladium_ (fig. 74)
-                           e.g. spores smooth, 4-6µm diam. - _C. brefeldii_
-                                spores echinulate, 6.5-9.5µm - _C. jonesii_
+                           e.g. spores smooth, 4-6Âµm diam. - _C. brefeldii_
+                                spores echinulate, 6.5-9.5Âµm - _C. jonesii_
   -        'Spores' not produced in subterminal clusters, but
            terminally on lateral vesicles, or over the surface of
            swollen fertile regions of the sporangiophore.                17
 
-  17(16)   Sporangiophores up to 250µm high. Lateral vesicles
+  17(16)   Sporangiophores up to 250Âµm high. Lateral vesicles
            numerous, each producing a single 'spore', which is
            projected when mature. Parasitic on tardigiades.
                                                    _Ballocephala_ (fig. 86)
@@ -2978,12 +2954,12 @@ tardigrade, sporangiophore and sporangia.]
   18(17)   Sporangiophores branched, with more or less globose
            terminal fertile regions. Spores dry and powdery,
            yellowish or pinkish in mass.         _Cunninghamella_ (fig. 84)
-                 e.g. spores smooth, ovoid, 18-22 × 10-14µm or
-                                       globose, 8-10µm diam. - _C. elegans_
-                           spores echinulate, ovoid, 8-12µm - _C. africana_
-  -        Sporangiophores unbranched, fertile portion 200-300 ×
-           15-20µm. Fertile region terminal only, cylindrical.
-           Spores smooth, greyish in mass, 2-4µm diam.
+                 e.g. spores smooth, ovoid, 18-22 Ã— 10-14Âµm or
+                                       globose, 8-10Âµm diam. - _C. elegans_
+                           spores echinulate, ovoid, 8-12Âµm - _C. africana_
+  -        Sporangiophores unbranched, fertile portion 200-300 Ã—
+           15-20Âµm. Fertile region terminal only, cylindrical.
+           Spores smooth, greyish in mass, 2-4Âµm diam.
                                            _Mycotypha microspora_ (fig. 85)
            (N.B. _Ostracoderma epigea_ (fig. 85), the anamorph of
            _Peziza astracoderma_, which occurs on paper and sometimes
@@ -2998,7 +2974,7 @@ Notes
 [1] There are few reports of _Ascozonus_, apart from _A. woolhopensis_.
     Observed spore sizes of _A. woolhopensis_ suggest that measurement of
     Renny's (1874) illustrations of spores leads to values which are too
-    large (19-20 × 6-6.5µm). Those in parentheses are what they might be,
+    large (19-20 Ã— 6-6.5Âµm). Those in parentheses are what they might be,
     based on the discrepancy between observed values for _A. woolhopensis_
     and Renny's illustration.
 
@@ -3011,366 +2987,4 @@ Notes
 End of the Project Gutenberg EBook of Keys to Fungi on Dung, by 
 Mike Richardson and Roy Watling
 
-*** END OF THIS PROJECT GUTENBERG EBOOK KEYS TO FUNGI ON DUNG ***
-
-***** This file should be named 57291-8.txt or 57291-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/7/2/9/57291/
-
-Produced by Keith Edkins, Mary Glenn Krause, Eric Lehtonen
-and the Online Distributed Proofreading Team at
-http://www.pgdp.net
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57291 ***
